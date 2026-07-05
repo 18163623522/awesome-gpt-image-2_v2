@@ -942,13 +942,13 @@ Looking for even more prompts? Browse the **[Web Collection](prompts/web-cases/R
 |----------|---------|
 | UI & Interfaces | 74 |
 | Posters & Typography | 101 |
-| Photography & Realism | 109 |
+| Photography & Realism | 108 |
 | Charts & Infographics | 52 |
-| Illustration & Art | 65 |
+| Illustration & Art | 63 |
 | Products & E-commerce | 38 |
 | Other Use Cases | 28 |
-| Brand & Logos | 25 |
-| Characters & People | 24 |
+| Brand & Logos | 26 |
+| Characters & People | 26 |
 | Scenes & Storytelling | 21 |
 | History & Classical Themes | 16 |
 | Architecture & Spaces | 13 |

@@ -1,6 +1,6 @@
 # Photography & Realism Prompts
 
-A collection of 109 GPT Image 2 prompts for photography & realism.
+A collection of 108 GPT Image 2 prompts for photography & realism.
 
 | # | Title | Image |
 |---|-------|-------|
@@ -76,9 +76,8 @@ A collection of 109 GPT Image 2 prompts for photography & realism.
 | 500 | 梦幻花冠仙境肖像 | ![梦幻花冠仙境肖像](/public/images/cases/case500.jpg) |
 | 501 | 夏日牵手回眸电影肖像 | ![夏日牵手回眸电影肖像](/public/images/cases/case501.jpg) |
 | 505 | 夜间手机光沙发肖像 | ![夜间手机光沙发肖像](/public/images/cases/case505.jpg) |
-| 511 | I am so sad I can't use Fable anymore. ---prompt--- | ![I am so sad I can't use Fable anymore. ---prompt---](/public/images/cases/case511.jpg) |
-| 513 | Today's Portrait. ---prompt--- | ![Today's Portrait. ---prompt---](/public/images/cases/case513.jpg) |
-| 514 | I love this portrait.  So I share it. ---prompt--- | ![I love this portrait.  So I share it. ---prompt---](/public/images/cases/case514.jpg) |
+| 508 | 木漏日庭院俯拍猫咪人像 | ![木漏日庭院俯拍猫咪人像](/public/images/cases/case508.jpg) |
+| 509 | 涂鸦拉衣奔跑棚拍 | ![涂鸦拉衣奔跑棚拍](/public/images/cases/case509.jpg) |
 | 515 | Today's Portrait. ---prompt--- | ![Today's Portrait. ---prompt---](/public/images/cases/case515.jpg) |
 | 516 | 🤫🤫 ---prompt--- | ![🤫🤫 ---prompt---](/public/images/cases/case516.jpg) |
 | 517 | World cup for Argentina. ---prompt--- | ![World cup for Argentina. ---prompt---](/public/images/cases/case517.jpg) |
@@ -1354,82 +1353,21 @@ A collection of 109 GPT Image 2 prompts for photography & realism.
 > 
 > Shot in a vertical 3:4 frame at slightly above eye level, medium close-up to three-quarter portrait. Warm dim tungsten room light mixed with cool phone-screen reflections, no flash, soft falloff across the couch and wall. Shallow depth of field, soft low-light grain, slight motion blur, natural imperfect sharpness. Background: plain beige-gray wall, minimal decor, late-night atmosphere. Soft glam makeup: subtle eyeliner, long lashes, smooth skin, glossy pink-nude lips. Realistic social-media night portrait aesthetic.
 
-### I am so sad I can't use Fable anymore. ---prompt---
+### 木漏日庭院俯拍猫咪人像
 
-**Source:** @BubbleBrain - [https://x.com/BubbleBrain/status/2065815868349849630](https://x.com/BubbleBrain/status/2065815868349849630)
+**Source:** @ohmuyi - [https://x.com/ohmuyi/status/2067930690977779942](https://x.com/ohmuyi/status/2067930690977779942)
 
-![I am so sad I can't use Fable anymore. ---prompt---](/public/images/cases/case511.jpg)
+![木漏日庭院俯拍猫咪人像](/public/images/cases/case508.jpg)
 
-> I am so sad I can't use Fable anymore. 
-> 
-> ---prompt---
-> Photorealistic Japanese gal fashion portrait, soft CCD flash aesthetic, strong HDF highlight bloom, vertical 9:16 composition, close-up three-quarter body portrait, eye-level intimate camera distance, cinematic Japanese photobook mood.
-> 
-> A beautiful young adult Chinese internet celebrity woman in her mid-20s, standing very close to the camera. The framing is tighter than a full-body shot, from upper thighs / waist-up to head, making her face large and clearly visible. She has a fuller curvy feminine figure, pronounced S-shaped body curve, defined waist, elegant waist-to-hip contour, fuller bust and hips, long slender legs, realistic anatomy, visible collarbones, natural skin texture, fair porcelain skin, luminous smooth highlights, and a confident bold presence.
-> 
-> She has long slightly tousled dark brown hair with soft messy volume, loose strands framing her face, glossy lips, delicate Japanese gal eye makeup, subtle blush, thin eyeliner, small hoop earrings, and a fashionable gyaru-inspired beauty look.
-> 
-> Expression: she is making a clearly readable angry-cute “😠” expression. Her eyebrows are slightly furrowed and pulled inward, her eyes are subtly narrowed with intense direct eye contact, her lips are softly pouting and pushed forward a little, her cheeks are faintly tightened, and her face shows an annoyed, jealous, sulky, playful girlfriend mood. The expression should feel realistic, stylish, cute, irritated, and slightly confrontational, not cartoonish, not exaggerated.
-> 
-> Outfit: fashionable Japanese gal / spicy streetwear outfit, fitted cropped black leather jacket, tight white ribbed crop top, low-rise fitted denim mini skirt with decorative chain belt, glossy white sheer pantyhose with pearlescent shine, slim waist chain, delicate necklace, small white handbag, and glossy white platform ankle boots. The styling should feel bold, trendy, feminine, sexy but tasteful, non-explicit, fashion-forward, and flattering to her S-shaped curve.
-> 
-> Pose: standing close to the camera with one hip pushed to the side to emphasize the S-curve, upper body subtly leaning toward the camera, one hand on her waist, the other hand lightly pulling the jacket collar or holding the handbag strap near her shoulder. Her posture feels confident, annoyed, stylish, and slightly confrontational, like a late-night fashion magazine snapshot with attitude.
-> 
-> Scene: late-night Japanese city street outside a small boutique hotel or convenience store, wet pavement reflecting neon lights, vending machine glow, distant taxi lights, soft urban background blur, subtle signage, quiet private nighttime atmosphere, cinematic street-fashion realism.
-> 
-> Lighting and aesthetic: very soft CCD flash lighting on the subject, dreamy highlight bloom, strong HDF-like halation, glowing overexposed highlights on skin, hair edges, pantyhose, leather jacket, and metal accessories. Warm neon reflections mixed with cool night ambience, soft haze, smooth tonal transitions, luminous fair skin, glossy texture, realistic shadows, natural lighting falloff, realistic hair strands, subtle pores and natural skin detail, clean polished photorealistic image quality. The image should feel soft, glowing, cinematic, and highly realistic, with no harsh digital sharpness.
-> 
-> Mood: stylish, sulky, cute-angry, confident, intimate, fashionable, glamorous, late-night Japanese street romance, soft but powerful feminine energy, cinematic realistic fashion editorial.
-> 
-> Negative prompt: full-body distant shot, face too small, unclear expression, neutral expression, smiling, cartoon anger, exaggerated anime face, extra fingers, distorted hands, unrealistic anatomy, bad proportions, deformed feet, awkward pose, plastic skin, waxy skin, explicit nudity, vulgar styling, blurry face, low quality, harsh digital sharpness, heavy noise, gritty texture, visible film grain.
+> 俯拍镜头，高角度顶机位，自上而下俯瞰一位年轻的东亚裔女性，她有着精致的东亚五官和柔顺的黑发。她蹲在花园小径上，轻轻逗弄一只毛茸茸的橘猫。头顶密密的枝叶滤过阳光，形成灵动的“木漏日”效果——跃动、圆形的光斑在她的肌肤和猫毛上流转舞动。空气中悬浮着淡淡的潮湿薄雾，捕捉住光束，营造出柔和可见的立体光柱（丁达尔效应）。当她仰头朝向镜头时，一层轻雾柔化了画面边缘，增添梦幻氛围。她的表情从略带俏皮的轻噘嘴，渐渐转为眼角堆起细纹的真挚笑容，斑驳的光线恰好勾勒出她肌肤的细腻纹理和眼中盈盈的水光。
 
-### Today's Portrait. ---prompt---
+### 涂鸦拉衣奔跑棚拍
 
-**Source:** @BubbleBrain - [https://x.com/BubbleBrain/status/2067158519477059762](https://x.com/BubbleBrain/status/2067158519477059762)
+**Source:** @Sairah_0 - [https://x.com/Sairah_0/status/2071929275897491491](https://x.com/Sairah_0/status/2071929275897491491)
 
-![Today's Portrait. ---prompt---](/public/images/cases/case513.jpg)
+![涂鸦拉衣奔跑棚拍](/public/images/cases/case509.jpg)
 
-> Today's Portrait. 
-> 
-> ---prompt---
-> Photorealistic luxury indoor portrait, Korean chaebol heiress mood, film photography aesthetic, strong highlight bloom, soft halation, subtle grain, slightly overexposed highlights, cold luxurious atmosphere, vertical 9:16 composition.
-> 
-> A beautiful young Chinese Internet Celebrity with a refined Korean V-line face, luminous fair skin, realistic skin texture, and a naturally fuller curvy figure with a soft S-shaped silhouette, fuller bust, defined waist, and long graceful legs. She wears cold elegant chaebol-heiress makeup: clean matte-dewy base, softly defined brows, subtle cool-toned eye makeup, clear lashes, faint blush, and muted rose-brown glossy lips. Long slightly tousled dark hair, delicate earrings.
-> 
-> Outfit: luxury at-home loungewear, elegant and tasteful, such as a soft ivory or champagne satin camisole with a loose knit cardigan or silky robe, paired with refined short lounge bottoms, creating a relaxed but expensive private-luxury feeling.
-> 
-> Scene: ultra-luxury penthouse living room at night, soft carpet floor, designer sofa nearby, dim ambient lighting, dark glass windows, subtle city lights in the background, polished interior, quiet wealthy private-night atmosphere.
-> 
-> Pose: squatting / crouched seated on the floor, facing the camera directly, body slightly tucked in naturally, one arm resting lightly on her knee, the other hand relaxed on the floor, both legs folded elegantly to emphasize curves and leg length. Expression: calm, distant, slightly tired and half-tipsy, half-lucid, looking straight into the camera.
-> 
-> Style: low-saturation navy obsidian mood, cold-toned luxury, film highlight bloom, rich-girl private snapshot, elegant, refined, non-explicit.
-
-### I love this portrait.  So I share it. ---prompt---
-
-**Source:** @BubbleBrain - [https://x.com/BubbleBrain/status/2066425489041023111](https://x.com/BubbleBrain/status/2066425489041023111)
-
-![I love this portrait.  So I share it. ---prompt---](/public/images/cases/case514.jpg)
-
-> I love this portrait.  So I share it. 
-> 
-> ---prompt---
-> Photorealistic modern Tokyo apartment boudoir portrait, cinematic Japanese photobook aesthetic, vertical 2:3 composition, eye-level to slightly low-angle full-body portrait, intimate indoor night scene.
-> 
-> A beautiful young Chinese internet celebrity woman in her mid-20s, sitting naturally on the floor in a modern Tokyo apartment at night. She has a tall, slender, elegant figure with long legs, softly curvy feminine body lines, a defined waist, subtle waist-to-hip contour, realistic anatomy, visible collarbones, natural skin texture, and luminous fair skin. She has long slightly tousled dark hair with soft messy volume, a few loose strands framing her face, delicate dangling earrings, subtle glossy lips, and soft Japanese-inspired glamorous makeup.
-> 
-> Expression: clearly readable eye-roll expression 🙄, looking slightly upward with a mildly annoyed, impatient, aloof, and bored attitude, while still looking stylish and attractive.
-> 
-> Outfit: a fitted off-shoulder draped top in a soft smoky lavender-grey tone, paired with a tight bodycon mini skirt that hugs the hips. She wears glossy sheer white pantyhose with a luminous pearlescent shine and subtle reflective highlights, barefoot, no shoes. The styling feels sensual, elegant, fashionable, and non-explicit.
-> 
-> Pose: sitting naturally on the floor in a relaxed feminine pose, with one leg bent closer to the body and the other leg extended slightly forward or diagonally outward to create a long elegant leg line. Her posture is relaxed and casual, with the upper body upright and slightly leaning back or to one side for a natural candid feeling. One hand rests softly on the floor for support, while the other hand rests on her thigh or lightly touches the skirt. The pose should feel effortless, intimate, and flattering, with clear emphasis on long legs and graceful body proportions.
-> 
-> Camera and composition: full-body framing, photographed from a slightly lower angle to enhance the length of the legs and overall body line, while still keeping the face clearly visible and expressive. The composition should feel natural, stylish, and balanced.
-> 
-> Scene: a cozy modern Tokyo apartment at night, soft carpet floor, low table with magazines and small personal items, warm floor lamp, bed nearby with slightly messy bedding, large windows showing blurred city lights and urban night skyline outside, calm private late-night atmosphere.
-> 
-> Lighting and aesthetic: Ricoh GR III HDF effect, soft highlight diffusion, dreamy bloom, glowing halation around the lamp and city lights, soft haze, slight overexposure in highlights, low contrast, warm indoor light mixed with cool night city ambience, subtle film grain, nostalgic Japanese photobook mood, realistic fashion editorial photography.
-> 
-> Mood: intimate, stylish, private, late-night, elegant, slightly moody, emotionally distant, cinematic, realistic.
+> A playful, high-key studio portrait of [subject] running joyfully across a seamless light gray background, captured mid-stride with one leg lifted and a wide genuine smile. The subject wears a casual oversized outfit with soft neutral tones (or vibrant colors), creating a dynamic sense of motion. Behind them, a simple black hand-drawn cartoon stick figure grabs and stretches the back of their shirt, making the fabric appear elastically pulled as if trying to stop them. The doodle character is integrated naturally into the scene with expressive motion lines and a humorous facial expression. The subject holds a fun prop (such as a dinosaur toy, oversized lollipop, teddy bear, or balloon), enhancing the playful storytelling. Minimalist composition, clean studio lighting, soft shadows, ultra-sharp focus, realistic skin texture, vibrant yet natural colors, whimsical editorial photography, premium children’s fashion campaign aesthetic, highly detailed, photorealistic, 8K.
 
 ### Today's Portrait. ---prompt---
 

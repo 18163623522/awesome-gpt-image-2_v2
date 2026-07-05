@@ -84,7 +84,7 @@ A collection of 101 GPT Image 2 prompts for posters & typography.
 | 497 | 单色水彩城市旅行海报 | ![单色水彩城市旅行海报](/public/images/cases/case497.jpg) |
 | 503 | 霓虹设计师 3D 海报 | ![霓虹设计师 3D 海报](/public/images/cases/case503.jpg) |
 | 506 | 可爱发卡图文人像海报 | ![可爱发卡图文人像海报](/public/images/cases/case506.jpg) |
-| 512 | Ultra-stylized football poster, dark cinematic sports artwork, selective color e | ![Ultra-stylized football poster, dark cinematic sports artwork, selective color e](/public/images/cases/case512.jpg) |
+| 511 | 城市名地标排版旅行海报 | ![城市名地标排版旅行海报](/public/images/cases/case511.jpg) |
 | 518 | prompt 生成一张 9:16 竖版高级海报，主题为「端午」，但必须彻底跳出传统节日海报框架。不要做粽子、卡通龙舟、红金喜庆、祥云边框、安康祝福模板，也不要做 | ![prompt 生成一张 9:16 竖版高级海报，主题为「端午」，但必须彻底跳出传统节日海报框架。不要做粽子、卡通龙舟、红金喜庆、祥云边框、安康祝福模板，也不要做](/public/images/cases/case518.jpg) |
 | 520 | 通用提示词： 请生成一张【高端地产超宽横幅广告】，单张图片，不要拼图，不要多宫格。 | ![通用提示词： 请生成一张【高端地产超宽横幅广告】，单张图片，不要拼图，不要多宫格。](/public/images/cases/case520.jpg) |
 | 525 | { "prompt": "Professional luxury birthday poster, 3:4 ratio. The entire frame is | ![{ "prompt": "Professional luxury birthday poster, 3:4 ratio. The entire frame is](/public/images/cases/case525.jpg) |
@@ -2347,30 +2347,17 @@ A collection of 101 GPT Image 2 prompts for posters & typography.
 > 
 > 比例9:16
 
-### Ultra-stylized football poster, dark cinematic sports artwork, selective color e
+### 城市名地标排版旅行海报
 
-**Source:** @Taaruk_ - [https://x.com/Taaruk_/status/2066726998060552538](https://x.com/Taaruk_/status/2066726998060552538)
+**Source:** @Goodmanprotocol - [https://x.com/Goodmanprotocol/status/2071819124708438092](https://x.com/Goodmanprotocol/status/2071819124708438092)
 
-![Ultra-stylized football poster, dark cinematic sports artwork, selective color e](/public/images/cases/case512.jpg)
+![城市名地标排版旅行海报](/public/images/cases/case511.jpg)
 
-> Ultra-stylized football poster, dark cinematic sports artwork, selective color effect, deep black background, monochrome grayscale players with only team colors preserved, high contrast lighting, dramatic shadows, gritty film grain texture, halftone print effect, retro magazine aesthetic, neon glow accents, glowing censor bar across eyes, modern streetwear graphic design, editorial sports poster, dynamic action pose, stadium atmosphere fading into darkness.
-> 
-> Main subject: elite football player in national team jersey, intense expression, mid-celebration, centered composition, jersey colors remain vibrant while skin and background stay black and white, subtle red/orange glow outlining body, dramatic rim lighting, floating particles, cinematic depth.
-> 
-> Style inspired by contemporary sports graphic design, underground football culture, poster art, graphic novel texture, premium branding campaign, bold composition, minimalist background, high-end Photoshop manipulation, ultra detailed, 8K, masterpiece.
-> 
-> Color treatment:
-> - Entire image in black and white
-> - Only jersey, socks, boots, and football remain in full national team colors
-> - Neon glow matching team colors
-> - Red, orange, yellow, blue, or national palette highlights
-> - Strong contrast and moody atmosphere
-> 
-> Effects:
-> heavy film grain, CRT texture, noise overlay, dust particles, halftone dots, paper texture, vignette, glow bloom, chromatic aberration, subtle motion blur, sports editorial look.
-> 
-> Typography area:
-> leave negative space for title and branding, poster layout, magazine cover composition.
+> Create a clean, modern typographic travel poster where the city name itself becomes the composition. Render the city name in large, bold, uppercase sans-serif letters spanning the width of the artwork. Seamlessly integrate the city's most iconic landmarks, architecture, monuments, streets, transportation, cultural symbols, cafés, bridges, parks, skylines, sculptures, waterfronts, historic buildings, and local details into, around, and inside the letters. Let landmarks naturally interact with the typography while preserving legibility.
+> Use an elegant flat vector illustration style with crisp geometric shapes, minimal detail, clean outlines, subtle shadows, and a premium editorial aesthetic. Maintain a limited color palette of deep navy, warm cream, muted red, and soft gray-blue for a timeless travel-poster look.
+> Add small decorative elements such as street lamps, trees, clouds, birds, benches, bicycles, fountains, trams, ferries, or other city-specific objects where appropriate. Keep generous negative space with a clean background and perfectly balanced composition.
+> Ensure every landmark, architectural style, vehicle, sign, and cultural element is accurate to the chosen city—avoid generic or incorrect landmarks. If desired, include a small elegant tagline beneath the city name (such as a famous nickname or slogan) in minimal typography.
+> Style: premium flat vector, minimalist travel poster, geometric illustration, editorial design, tourism branding, clean typography, high contrast, ultra-sharp lines, museum-quality print, modern graphic design, centered composition, scalable SVG aesthetic, 8K resolution.
 
 ### prompt 生成一张 9:16 竖版高级海报，主题为「端午」，但必须彻底跳出传统节日海报框架。不要做粽子、卡通龙舟、红金喜庆、祥云边框、安康祝福模板，也不要做
 

@@ -1,6 +1,6 @@
 # Characters & People Prompts
 
-A collection of 24 GPT Image 2 prompts for characters & people.
+A collection of 26 GPT Image 2 prompts for characters & people.
 
 | # | Title | Image |
 |---|-------|-------|
@@ -28,6 +28,8 @@ A collection of 24 GPT Image 2 prompts for characters & people.
 | 473 | ROGUE VIPER 游戏概念设定板 | ![ROGUE VIPER 游戏概念设定板](/public/images/cases/case473.jpg) |
 | 480 | 粉丝速写本角色页 | ![粉丝速写本角色页](/public/images/cases/case480.jpg) |
 | 502 | 黑桃国王递归扑克牌 | ![黑桃国王递归扑克牌](/public/images/cases/case502.jpg) |
+| 507 | 暖调钩织角色玩偶 | ![暖调钩织角色玩偶](/public/images/cases/case507.jpg) |
+| 512 | Brutalist Freestyle 角色设定表 | ![Brutalist Freestyle 角色设定表](/public/images/cases/case512.jpg) |
 
 ## Prompts
 
@@ -693,3 +695,25 @@ A collection of 24 GPT Image 2 prompts for characters & people.
 > •Epic storytelling through visual symbolism
 > 
 > The final image should feel like the cover of a legendary fantasy card game where the King of Spades has become self-aware, existing across multiple layers of reality while being held in the hands of fate itself, represented by the Queen of Hearts.
+
+### 暖调钩织角色玩偶
+
+**Source:** @azed_ai - [https://x.com/azed_ai/status/2067925399947067728](https://x.com/azed_ai/status/2067925399947067728)
+
+![暖调钩织角色玩偶](/public/images/cases/case507.jpg)
+
+> A handcrafted crochet doll of a [subject], made with soft yarn textures and intricate knitted details. Dressed in a vivid [color1] accent and a delicate [color2] garment, holding a small [prop]. Set in a cozy [setting], warm muted atmosphere, charming handmade aesthetic, nostalgic amigurumi style.
+
+### Brutalist Freestyle 角色设定表
+
+**Source:** @ShamsAmin56 - [https://x.com/ShamsAmin56/status/2071590431725670517](https://x.com/ShamsAmin56/status/2071590431725670517)
+
+![Brutalist Freestyle 角色设定表](/public/images/cases/case512.jpg)
+
+> Use the uploaded reference image as the primary character design reference, preserving the overall silhouette, proportions, futuristic apparel layering, helmet geometry, visor shape, stone-like brutalist armor surfaces, black hooded coat, tactical streetwear construction, gloves, boots, utility belt, and monochrome industrial aesthetic.
+> 
+> Create a premium production character sheet for a 2D stylized futuristic freestyle road soccer protagonist inspired by Brutalist architecture, industrial concrete textures, geometric forms, and minimalist sci-fi design language.  The presentation should resemble a AAA game character turnaround sheet mixed with a Nike commercial concept presentation.
+> 
+> The character should feel agile, stylish, confident, athletic, and built for urban freestyle football.  Maintain the concrete-textured helmet with glowing orange visor, oversized hood, tactical long coat, mechanical gauntlets, armored boots, and industrial detailing exactly as the design language.  The football should be integrated naturally into the presentation.  Minimal off-white background (#F7F5F0).
+> 
+> Professional production sheet layout.  Extremely clean linework.  Cinematic concept art.  Premium graphic design.  No photorealism.  High-end stylized illustration.  CHARACTER ANGLES Front View  Neutral hero pose.  Left Side View Right Side View Back View 3/4 Front View Dynamic Freestyle Pose  Standing on one foot while balancing the football.  Hero Pose  Football under foot.  Long coat flowing.  Confident posture.  CLOSE-UP CALLOUTS  Helmet Design  Orange illuminated visor  Concrete brutalist surface  Industrial wear  Panel breakdown  Upper Body  Coat construction  Buckles  Fabric folds  Armor integration  Mechanical Gloves  Finger articulation  Industrial joints  Material breakdown  Utility Belt  Equipment  Fasteners  Soccer accessory pouch  Boot Design  Heavy brutalist geometry  Street football grip  Orange illuminated sole accents  Football Design  Minimal futuristic street football  Concrete-inspired panel graphics  Orange accent details  MATERIAL CALLOUTS  Concrete Composite Armor  Carbon Tactical Fabric  Matte Black Nylon  Industrial Rubber  Forged Titanium Components  Orange Energy Lighting  COLOR PALETTE  Concrete White  Matte Black  Graphite Gray  Charcoal  Burnt Orange Glow  Dark Steel  EXPRESSION SHEET  Neutral  Focused  Competitive  Confident Smile  Game Face  Victory Expression  ACTION SILHOUETTES  Ball Juggle  Around The World  Elastico  Rainbow Flick  Backheel  Crossover  Street Sprint  Ball Stall  CAMERA CALLOUTS  Hero Shot Low Angle  Turnaround Orthographic  Close-up Macro Lens  Dynamic Pose 35mm Tracking Camera  Hero Pose 24mm Cinematic Lens  SFX LABELS  WHOOSH  SWISH  TAP  BOUNCE  THUD  ZIP  SPIN  SKRT  VROOM  RUSH  MUSIC HIT  CROWD CHEER  SLOW MOTION LABELS  120 FPS  240 FPS  Freeze Frame  Motion Trails  Speed Ramping  GUIDELINES  Maintain consistent proportions across all views.  Keep the brutalist design language consistent.  Emphasize concrete-inspired hard surfaces contrasted with flexible tactical fabrics.  Preserve the glowing orange visor as the primary focal point.  Use clean production callouts with arrows and labels.  Include measurement guides, material notes, and design annotations.  Keep presentation minimal and premium.  Avoid clutter.  Professional concept art quality suitable for AAA game development, cinematic production, and advertising pitch decks.  LAYOUT  16:9 Landscape  Top Center: MAIN TITLE STREET FLOW // BRUTALIST FREESTYLE  Below: Production Character Sheet  Center: Large Hero Character  Left: Front • Side • Back Views  Right: 3/4 View • Action Pose • Hero Pose  Bottom: Close-ups • Materials • Color Palette • Equipment • Football Design • Expressions • Camera Notes • SFX • Slow Motion • Production Annotations  Minimal off-white background with subtle grid guides, technical drawing arrows, clean typography, and premium commercial presentation quality.

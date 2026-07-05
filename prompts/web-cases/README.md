@@ -8,13 +8,13 @@ A comprehensive collection of **576 GPT Image 2 prompts** sourced from [gpt-imag
 |----------|---------|------|
 | UI & Interfaces | 74 | [ui-interfaces.md](ui-interfaces.md) |
 | Posters & Typography | 101 | [posters-typography.md](posters-typography.md) |
-| Photography & Realism | 109 | [photography-realism.md](photography-realism.md) |
+| Photography & Realism | 108 | [photography-realism.md](photography-realism.md) |
 | Charts & Infographics | 52 | [charts-infographics.md](charts-infographics.md) |
-| Illustration & Art | 65 | [illustration-art.md](illustration-art.md) |
+| Illustration & Art | 63 | [illustration-art.md](illustration-art.md) |
 | Products & E-commerce | 38 | [products-ecommerce.md](products-ecommerce.md) |
 | Other Use Cases | 28 | [other.md](other.md) |
-| Brand & Logos | 25 | [brand-logos.md](brand-logos.md) |
-| Characters & People | 24 | [characters-people.md](characters-people.md) |
+| Brand & Logos | 26 | [brand-logos.md](brand-logos.md) |
+| Characters & People | 26 | [characters-people.md](characters-people.md) |
 | Scenes & Storytelling | 21 | [scenes-storytelling.md](scenes-storytelling.md) |
 | History & Classical Themes | 16 | [history-classical.md](history-classical.md) |
 | Architecture & Spaces | 13 | [architecture.md](architecture.md) |
@@ -24,7 +24,7 @@ A comprehensive collection of **576 GPT Image 2 prompts** sourced from [gpt-imag
 
 ## Images
 
-All example images are stored in `public/images/cases/` with filenames matching their case IDs (`case1.jpg` through `case506.jpg`, plus some `.png` files).
+All example images are stored in `public/images/cases/` with filenames matching their case IDs (`case1.jpg` through `case579.jpg`, plus some `.png` files).
 
 ## Source
 

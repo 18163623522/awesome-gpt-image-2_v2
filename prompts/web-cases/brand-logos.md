@@ -1,6 +1,6 @@
 # Brand & Logos Prompts
 
-A collection of 25 GPT Image 2 prompts for brand & logos.
+A collection of 26 GPT Image 2 prompts for brand & logos.
 
 | # | Title | Image |
 |---|-------|-------|
@@ -29,6 +29,7 @@ A collection of 25 GPT Image 2 prompts for brand & logos.
 | 459 | 品牌奶茶 KV 概念海报 | ![品牌奶茶 KV 概念海报](/public/images/cases/case459.jpg) |
 | 478 | 夹层式品牌编辑海报 | ![夹层式品牌编辑海报](/public/images/cases/case478.jpg) |
 | 496 | 水雕品牌 Logo 六宫格 | ![水雕品牌 Logo 六宫格](/public/images/cases/case496.jpg) |
+| 510 | Bichon Shop 拟物 App 图标 | ![Bichon Shop 拟物 App 图标](/public/images/cases/case510.jpg) |
 
 ## Prompts
 
@@ -1305,3 +1306,11 @@ A collection of 25 GPT Image 2 prompts for brand & logos.
 ![水雕品牌 Logo 六宫格](/public/images/cases/case496.jpg)
 
 > Create a premium 3x2 grid collage of iconic global brand logos recreated entirely from dynamic water formations, floating above a crystal-clear ocean under a vibrant blue sky. Each panel features a different logo sculpted from realistic transparent water, with detailed splashes, droplets, reflections, refractions, and flowing liquid textures. The water forms should look physically accurate, elegant, and instantly recognizable while remaining made completely of water.
+
+### Bichon Shop 拟物 App 图标
+
+**Source:** @iamaiistudio - [https://x.com/iamaiistudio/status/2071923809788285125](https://x.com/iamaiistudio/status/2071923809788285125)
+
+![Bichon Shop 拟物 App 图标](/public/images/cases/case510.jpg)
+
+> A macOS app icon for an app named 'Bichon Shop'. A single squircle icon with smooth continuous rounded corners, centered on a white canvas with padding, occupying about 80% of the canvas. Modern light skeuomorphic macOS App Store style. Only one icon.

@@ -10855,184 +10855,170 @@
     },
     {
       "id": 507,
-      "title": "Please transform the entire image into a single Decorative Folk Flat Illustratio",
+      "title": "暖调钩织角色玩偶",
       "image": "/images/case507.jpg",
-      "imageAlt": "Please transform the entire image into a single Decorative Folk Flat Illustratio",
-      "sourceLabel": "@Ciri_ai",
-      "sourceUrl": "https://x.com/Ciri_ai/status/2066742340434424079",
-      "prompt": "Please transform the entire image into a single Decorative Folk Flat Illustration with Doodle elements. Use a bold and playful color palette, completely different from the original image. Simplify all details into clean, flat shapes with a handmade, slightly imperfect feel, as if drawn on a sheet of white paper. The overall style should look cute, childlike, and whimsical",
-      "promptPreview": "Please transform the entire image into a single Decorative Folk Flat Illustration with Doodle elements. Use a bold and playful color palette, completely different from the original image. Simplify all...",
-      "category": "Illustration & Art",
+      "imageAlt": "暖调钩织角色玩偶",
+      "sourceLabel": "@azed_ai",
+      "sourceUrl": "https://x.com/azed_ai/status/2067925399947067728",
+      "prompt": "A handcrafted crochet doll of a [subject], made with soft yarn textures and intricate knitted details. Dressed in a vivid [color1] accent and a delicate [color2] garment, holding a small [prop]. Set in a cozy [setting], warm muted atmosphere, charming handmade aesthetic, nostalgic amigurumi style.",
+      "promptPreview": "A handcrafted crochet doll of a [subject], made with soft yarn textures and intricate knitted details. Dressed in a vivid [color1] accent and a delicate [color2] garment, holding a small [prop]. Set in a cozy [setting], ",
+      "category": "Characters & People",
       "styles": [
-        "Illustration"
+        "Character"
       ],
       "scenes": [
-        "Creative"
+        "Tech",
+        "Commerce"
       ],
       "featured": false,
       "githubUrl": "https://github.com/freestylefly/awesome-gpt-image-2/blob/main/docs/gallery-part-2.md#case-507"
     },
     {
       "id": 508,
-      "title": "Transform the uploaded travel photo into a charming hand-drawn anime illustratio",
+      "title": "木漏日庭院俯拍猫咪人像",
       "image": "/images/case508.jpg",
-      "imageAlt": "Transform the uploaded travel photo into a charming hand-drawn anime illustratio",
-      "sourceLabel": "@Taaruk_",
-      "sourceUrl": "https://x.com/Taaruk_/status/2067624585785487681",
-      "prompt": "Transform the uploaded travel photo into a charming hand-drawn anime illustration while perfectly preserving the original pose, composition, clothing, hand-holding gesture, mountain landscape, and camera angle. Cute couple standing together with arms raised, joyful expressions, soft smiles, bright adventure mood.\n\nBackground: majestic snow-capped mountains, lush green valley, wildflowers, blue sky, fluffy white clouds. Add whimsical doodle elements including hand-drawn sun, stars, hearts, clouds, airplane trail, sparkles, and playful travel-themed sketches. Wooden signboard with handwritten text “GOOD VIBES”, handwritten note “Adventure Time”.\n\nStyle: Studio Ghibli-inspired travel postcard, pastel colors, clean line art, soft painterly shading, vibrant yet cozy atmosphere, storybook illustration, kawaii aesthetic, dreamy vacation vibe, high detail, ultra cute characters, warm sunlight, cheerful summer day.\n\nComposition: full-body characters centered in frame, scenic landscape stretching behind them, balanced poster design, social-media-ready artwork, travel diary illustration, whimsical doodles integrated naturally around the scene.\n\nQuality: masterpiece, highly detailed, professional illustration, crisp outlines, soft textures, vibrant colors, 4K, anime travel artwork, magical atmosphere, adorable expressions, perfect character consistency.",
-      "promptPreview": "Transform the uploaded travel photo into a charming hand-drawn anime illustration while perfectly preserving the original pose, composition, clothing, hand-holding gesture, mountain landscape, and cam...",
-      "category": "Illustration & Art",
+      "imageAlt": "木漏日庭院俯拍猫咪人像",
+      "sourceLabel": "@ohmuyi",
+      "sourceUrl": "https://x.com/ohmuyi/status/2067930690977779942",
+      "prompt": "俯拍镜头，高角度顶机位，自上而下俯瞰一位年轻的东亚裔女性，她有着精致的东亚五官和柔顺的黑发。她蹲在花园小径上，轻轻逗弄一只毛茸茸的橘猫。头顶密密的枝叶滤过阳光，形成灵动的“木漏日”效果——跃动、圆形的光斑在她的肌肤和猫毛上流转舞动。空气中悬浮着淡淡的潮湿薄雾，捕捉住光束，营造出柔和可见的立体光柱（丁达尔效应）。当她仰头朝向镜头时，一层轻雾柔化了画面边缘，增添梦幻氛围。她的表情从略带俏皮的轻噘嘴，渐渐转为眼角堆起细纹的真挚笑容，斑驳的光线恰好勾勒出她肌肤的细腻纹理和眼中盈盈的水光。",
+      "promptPreview": "俯拍镜头，高角度顶机位，自上而下俯瞰一位年轻的东亚裔女性，她有着精致的东亚五官和柔顺的黑发。她蹲在花园小径上，轻轻逗弄一只毛茸茸的橘猫。头顶密密的枝叶滤过阳光，形成灵动的“木漏日”效果——跃动、圆形的光斑在她的肌肤和猫毛上流转舞动。空气中悬浮着淡淡的潮湿薄雾，捕捉住光束，营造出柔和可见的立体光柱（丁达尔效应）。当她仰头朝向镜头时，一层轻雾柔化了画面边缘，增添梦幻氛围。她的表情从略带俏皮的轻噘嘴，渐渐转为眼角堆起细纹的真挚笑容，斑驳的光线",
+      "category": "Photography & Realism",
       "styles": [
-        "Characters",
-        "Illustration",
-        "Poster",
-        "Scenes"
+        "Photography"
       ],
       "scenes": [
-        "Creative",
-        "Social",
-        "Story"
+        "Creative"
       ],
       "featured": false,
       "githubUrl": "https://github.com/freestylefly/awesome-gpt-image-2/blob/main/docs/gallery-part-2.md#case-508"
     },
     {
       "id": 509,
-      "title": "Turn this real-life selfie into a playful hand-drawn cartoon illustration, cute",
+      "title": "涂鸦拉衣奔跑棚拍",
       "image": "/images/case509.jpg",
-      "imageAlt": "Turn this real-life selfie into a playful hand-drawn cartoon illustration, cute",
-      "sourceLabel": "@Taaruk_",
-      "sourceUrl": "https://x.com/Taaruk_/status/2066809156217274808",
-      "prompt": "Turn this real-life selfie into a playful hand-drawn cartoon illustration, cute doodle art style, top-down selfie perspective, stylish couple wearing black outfits and sunglasses, man with mustache, green plaid cap with bold white text, brown crossbody bag, woman with hair bun, holding ice cream cones, cheerful and cozy summer vibe.\n\nBright white background filled with colorful doodles: smiling sun, flowers, hearts, stars, leaves, squiggles, clouds, tiny dots, playful hand-drawn decorations surrounding the characters. Soft pastel palette with vibrant accents, children's book illustration style, sticker art aesthetic, whimsical and charming.\n\nFlat vector illustration, clean bold outlines, simplified facial features, rosy cheeks, expressive cartoon eyes, textured brush strokes, vibrant colors, high detail, cute lifestyle artwork, Instagram-friendly illustration, cozy relationship aesthetic, modern doodle poster, joyful mood.\n\nComposition:\n- Overhead selfie angle\n- Couple centered\n- Ice cream cones visible\n- Green cap and black sunglasses preserved\n- Decorative doodles evenly filling the background\n- Clean white canvas\n\nStyle references:\ncute doodle illustration, Scandinavian children's book art, whimsical sticker design, colorful hand-painted cartoon, playful digital illustration, kawaii aesthetic, modern lifestyle artwork, trending social media illustration.",
-      "promptPreview": "Turn this real-life selfie into a playful hand-drawn cartoon illustration, cute doodle art style, top-down selfie perspective, stylish couple wearing black outfits and sunglasses, man with mustache, g...",
-      "category": "Illustration & Art",
+      "imageAlt": "涂鸦拉衣奔跑棚拍",
+      "sourceLabel": "@Sairah_0",
+      "sourceUrl": "https://x.com/Sairah_0/status/2071929275897491491",
+      "prompt": "A playful, high-key studio portrait of [subject] running joyfully across a seamless light gray background, captured mid-stride with one leg lifted and a wide genuine smile. The subject wears a casual oversized outfit with soft neutral tones (or vibrant colors), creating a dynamic sense of motion. Behind them, a simple black hand-drawn cartoon stick figure grabs and stretches the back of their shirt, making the fabric appear elastically pulled as if trying to stop them. The doodle character is integrated naturally into the scene with expressive motion lines and a humorous facial expression. The subject holds a fun prop (such as a dinosaur toy, oversized lollipop, teddy bear, or balloon), enhancing the playful storytelling. Minimalist composition, clean studio lighting, soft shadows, ultra-sharp focus, realistic skin texture, vibrant yet natural colors, whimsical editorial photography, premium children’s fashion campaign aesthetic, highly detailed, photorealistic, 8K.",
+      "promptPreview": "A playful, high-key studio portrait of [subject] running joyfully across a seamless light gray background, captured mid-stride with one leg lifted and a wide genuine smile. The subject wears a casual oversized outfit wit",
+      "category": "Photography & Realism",
       "styles": [
-        "Characters",
-        "Illustration",
-        "Poster"
+        "UI",
+        "Realistic",
+        "Character"
       ],
       "scenes": [
-        "Creative",
-        "Fashion",
-        "Social"
+        "Tech",
+        "Commerce",
+        "Fashion"
       ],
       "featured": false,
       "githubUrl": "https://github.com/freestylefly/awesome-gpt-image-2/blob/main/docs/gallery-part-2.md#case-509"
     },
     {
       "id": 510,
-      "title": "Create a stylized watercolor and gouache illustration based on the following art",
+      "title": "Bichon Shop 拟物 App 图标",
       "image": "/images/case510.jpg",
-      "imageAlt": "Create a stylized watercolor and gouache illustration based on the following art",
-      "sourceLabel": "@Ciri_ai",
-      "sourceUrl": "https://x.com/Ciri_ai/status/2067088864523805046",
-      "prompt": "Create a stylized watercolor and gouache illustration based on the following artistic style. Do not invent a new scene, transform the user's reference photo using these exact visual characteristics:\n\n- Style: Modern gouache folk art illustration with hand-painted watercolor textures and a matte finish.\n- Anatomy & Lines: Distorted anatomy, expressive blocky shapes, fluid outlines, and visible soft brushstrokes.\n\n- Facial Features: Stylized closed eyes, thin arched eyebrows, a long sharp nose, and simple flat lips. Distinct, clean, and minimalist facial structures.\n- Complexion: Warm skin tones, heavy distinct freckles, and prominent rosy textured cheeks with a stippled or dry-brush effect.\n- Composition: Organic flowing composition, interwoven layers, shallow depth of field, and a soft pastel background with vibrant botanical overlays.\n\n- Color Palette: Warm earth tones contrasted against cool botanical accent colors.",
-      "promptPreview": "Create a stylized watercolor and gouache illustration based on the following artistic style. Do not invent a new scene, transform the user's reference photo using these exact visual characteristics:\n\n...",
-      "category": "Illustration & Art",
+      "imageAlt": "Bichon Shop 拟物 App 图标",
+      "sourceLabel": "@iamaiistudio",
+      "sourceUrl": "https://x.com/iamaiistudio/status/2071923809788285125",
+      "prompt": "A macOS app icon for an app named 'Bichon Shop'. A single squircle icon with smooth continuous rounded corners, centered on a white canvas with padding, occupying about 80% of the canvas. Modern light skeuomorphic macOS App Store style. Only one icon.",
+      "promptPreview": "A macOS app icon for an app named 'Bichon Shop'. A single squircle icon with smooth continuous rounded corners, centered on a white canvas with padding, occupying about 80% of the canvas. Modern light skeuomorphic macOS ",
+      "category": "Brand & Logos",
       "styles": [
-        "Illustration",
-        "Scenes"
+        "UI"
       ],
       "scenes": [
-        "Creative",
-        "Story",
-        "Tech"
+        "Commerce"
       ],
       "featured": false,
       "githubUrl": "https://github.com/freestylefly/awesome-gpt-image-2/blob/main/docs/gallery-part-2.md#case-510"
     },
     {
       "id": 511,
-      "title": "I am so sad I can't use Fable anymore. ---prompt---",
+      "title": "城市名地标排版旅行海报",
       "image": "/images/case511.jpg",
-      "imageAlt": "I am so sad I can't use Fable anymore. ---prompt---",
-      "sourceLabel": "@BubbleBrain",
-      "sourceUrl": "https://x.com/BubbleBrain/status/2065815868349849630",
-      "prompt": "I am so sad I can't use Fable anymore. \n\n---prompt---\nPhotorealistic Japanese gal fashion portrait, soft CCD flash aesthetic, strong HDF highlight bloom, vertical 9:16 composition, close-up three-quarter body portrait, eye-level intimate camera distance, cinematic Japanese photobook mood.\n\nA beautiful young adult Chinese internet celebrity woman in her mid-20s, standing very close to the camera. The framing is tighter than a full-body shot, from upper thighs / waist-up to head, making her face large and clearly visible. She has a fuller curvy feminine figure, pronounced S-shaped body curve, defined waist, elegant waist-to-hip contour, fuller bust and hips, long slender legs, realistic anatomy, visible collarbones, natural skin texture, fair porcelain skin, luminous smooth highlights, and a confident bold presence.\n\nShe has long slightly tousled dark brown hair with soft messy volume, loose strands framing her face, glossy lips, delicate Japanese gal eye makeup, subtle blush, thin eyeliner, small hoop earrings, and a fashionable gyaru-inspired beauty look.\n\nExpression: she is making a clearly readable angry-cute “😠” expression. Her eyebrows are slightly furrowed and pulled inward, her eyes are subtly narrowed with intense direct eye contact, her lips are softly pouting and pushed forward a little, her cheeks are faintly tightened, and her face shows an annoyed, jealous, sulky, playful girlfriend mood. The expression should feel realistic, stylish, cute, irritated, and slightly confrontational, not cartoonish, not exaggerated.\n\nOutfit: fashionable Japanese gal / spicy streetwear outfit, fitted cropped black leather jacket, tight white ribbed crop top, low-rise fitted denim mini skirt with decorative chain belt, glossy white sheer pantyhose with pearlescent shine, slim waist chain, delicate necklace, small white handbag, and glossy white platform ankle boots. The styling should feel bold, trendy, feminine, sexy but tasteful, non-explicit, fashion-forward, and flattering to her S-shaped curve.\n\nPose: standing close to the camera with one hip pushed to the side to emphasize the S-curve, upper body subtly leaning toward the camera, one hand on her waist, the other hand lightly pulling the jacket collar or holding the handbag strap near her shoulder. Her posture feels confident, annoyed, stylish, and slightly confrontational, like a late-night fashion magazine snapshot with attitude.\n\nScene: late-night Japanese city street outside a small boutique hotel or convenience store, wet pavement reflecting neon lights, vending machine glow, distant taxi lights, soft urban background blur, subtle signage, quiet private nighttime atmosphere, cinematic street-fashion realism.\n\nLighting and aesthetic: very soft CCD flash lighting on the subject, dreamy highlight bloom, strong HDF-like halation, glowing overexposed highlights on skin, hair edges, pantyhose, leather jacket, and metal accessories. Warm neon reflections mixed with cool night ambience, soft haze, smooth tonal transitions, luminous fair skin, glossy texture, realistic shadows, natural lighting falloff, realistic hair strands, subtle pores and natural skin detail, clean polished photorealistic image quality. The image should feel soft, glowing, cinematic, and highly realistic, with no harsh digital sharpness.\n\nMood: stylish, sulky, cute-angry, confident, intimate, fashionable, glamorous, late-night Japanese street romance, soft but powerful feminine energy, cinematic realistic fashion editorial.\n\nNegative prompt: full-body distant shot, face too small, unclear expression, neutral expression, smiling, cartoon anger, exaggerated anime face, extra fingers, distorted hands, unrealistic anatomy, bad proportions, deformed feet, awkward pose, plastic skin, waxy skin, explicit nudity, vulgar styling, blurry face, low quality, harsh digital sharpness, heavy noise, gritty texture, visible film grain.",
-      "promptPreview": "I am so sad I can't use Fable anymore. \n\n---prompt---\nPhotorealistic Japanese gal fashion portrait, soft CCD flash aesthetic, strong HDF highlight bloom, vertical 9:16 composition, close-up three-quar...",
-      "category": "Photography & Realism",
+      "imageAlt": "城市名地标排版旅行海报",
+      "sourceLabel": "@Goodmanprotocol",
+      "sourceUrl": "https://x.com/Goodmanprotocol/status/2071819124708438092",
+      "prompt": "Create a clean, modern typographic travel poster where the city name itself becomes the composition. Render the city name in large, bold, uppercase sans-serif letters spanning the width of the artwork. Seamlessly integrate the city's most iconic landmarks, architecture, monuments, streets, transportation, cultural symbols, cafés, bridges, parks, skylines, sculptures, waterfronts, historic buildings, and local details into, around, and inside the letters. Let landmarks naturally interact with the typography while preserving legibility.\nUse an elegant flat vector illustration style with crisp geometric shapes, minimal detail, clean outlines, subtle shadows, and a premium editorial aesthetic. Maintain a limited color palette of deep navy, warm cream, muted red, and soft gray-blue for a timeless travel-poster look.\nAdd small decorative elements such as street lamps, trees, clouds, birds, benches, bicycles, fountains, trams, ferries, or other city-specific objects where appropriate. Keep generous negative space with a clean background and perfectly balanced composition.\nEnsure every landmark, architectural style, vehicle, sign, and cultural element is accurate to the chosen city—avoid generic or incorrect landmarks. If desired, include a small elegant tagline beneath the city name (such as a famous nickname or slogan) in minimal typography.\nStyle: premium flat vector, minimalist travel poster, geometric illustration, editorial design, tourism branding, clean typography, high contrast, ultra-sharp lines, museum-quality print, modern graphic design, centered composition, scalable SVG aesthetic, 8K resolution.",
+      "promptPreview": "Create a clean, modern typographic travel poster where the city name itself becomes the composition. Render the city name in large, bold, uppercase sans-serif letters spanning the width of the artwork. Seamlessly integra",
+      "category": "Posters & Typography",
       "styles": [
-        "Characters",
-        "Illustration",
-        "Photography",
-        "Realistic",
-        "Scenes"
+        "UI",
+        "Poster",
+        "Illustration"
       ],
       "scenes": [
-        "Creative",
-        "Fashion",
-        "Story"
+        "Tech",
+        "Commerce",
+        "Travel"
       ],
       "featured": false,
       "githubUrl": "https://github.com/freestylefly/awesome-gpt-image-2/blob/main/docs/gallery-part-2.md#case-511"
     },
     {
       "id": 512,
-      "title": "Ultra-stylized football poster, dark cinematic sports artwork, selective color e",
+      "title": "Brutalist Freestyle 角色设定表",
       "image": "/images/case512.jpg",
-      "imageAlt": "Ultra-stylized football poster, dark cinematic sports artwork, selective color e",
-      "sourceLabel": "@Taaruk_",
-      "sourceUrl": "https://x.com/Taaruk_/status/2066726998060552538",
-      "prompt": "Ultra-stylized football poster, dark cinematic sports artwork, selective color effect, deep black background, monochrome grayscale players with only team colors preserved, high contrast lighting, dramatic shadows, gritty film grain texture, halftone print effect, retro magazine aesthetic, neon glow accents, glowing censor bar across eyes, modern streetwear graphic design, editorial sports poster, dynamic action pose, stadium atmosphere fading into darkness.\n\nMain subject: elite football player in national team jersey, intense expression, mid-celebration, centered composition, jersey colors remain vibrant while skin and background stay black and white, subtle red/orange glow outlining body, dramatic rim lighting, floating particles, cinematic depth.\n\nStyle inspired by contemporary sports graphic design, underground football culture, poster art, graphic novel texture, premium branding campaign, bold composition, minimalist background, high-end Photoshop manipulation, ultra detailed, 8K, masterpiece.\n\nColor treatment:\n- Entire image in black and white\n- Only jersey, socks, boots, and football remain in full national team colors\n- Neon glow matching team colors\n- Red, orange, yellow, blue, or national palette highlights\n- Strong contrast and moody atmosphere\n\nEffects:\nheavy film grain, CRT texture, noise overlay, dust particles, halftone dots, paper texture, vignette, glow bloom, chromatic aberration, subtle motion blur, sports editorial look.\n\nTypography area:\nleave negative space for title and branding, poster layout, magazine cover composition.",
-      "promptPreview": "Ultra-stylized football poster, dark cinematic sports artwork, selective color effect, deep black background, monochrome grayscale players with only team colors preserved, high contrast lighting, dram...",
-      "category": "Posters & Typography",
+      "imageAlt": "Brutalist Freestyle 角色设定表",
+      "sourceLabel": "@ShamsAmin56",
+      "sourceUrl": "https://x.com/ShamsAmin56/status/2071590431725670517",
+      "prompt": "Use the uploaded reference image as the primary character design reference, preserving the overall silhouette, proportions, futuristic apparel layering, helmet geometry, visor shape, stone-like brutalist armor surfaces, black hooded coat, tactical streetwear construction, gloves, boots, utility belt, and monochrome industrial aesthetic.\n\nCreate a premium production character sheet for a 2D stylized futuristic freestyle road soccer protagonist inspired by Brutalist architecture, industrial concrete textures, geometric forms, and minimalist sci-fi design language.  The presentation should resemble a AAA game character turnaround sheet mixed with a Nike commercial concept presentation.\n\nThe character should feel agile, stylish, confident, athletic, and built for urban freestyle football.  Maintain the concrete-textured helmet with glowing orange visor, oversized hood, tactical long coat, mechanical gauntlets, armored boots, and industrial detailing exactly as the design language.  The football should be integrated naturally into the presentation.  Minimal off-white background (#F7F5F0).\n\nProfessional production sheet layout.  Extremely clean linework.  Cinematic concept art.  Premium graphic design.  No photorealism.  High-end stylized illustration.  CHARACTER ANGLES Front View  Neutral hero pose.  Left Side View Right Side View Back View 3/4 Front View Dynamic Freestyle Pose  Standing on one foot while balancing the football.  Hero Pose  Football under foot.  Long coat flowing.  Confident posture.  CLOSE-UP CALLOUTS  Helmet Design  Orange illuminated visor  Concrete brutalist surface  Industrial wear  Panel breakdown  Upper Body  Coat construction  Buckles  Fabric folds  Armor integration  Mechanical Gloves  Finger articulation  Industrial joints  Material breakdown  Utility Belt  Equipment  Fasteners  Soccer accessory pouch  Boot Design  Heavy brutalist geometry  Street football grip  Orange illuminated sole accents  Football Design  Minimal futuristic street football  Concrete-inspired panel graphics  Orange accent details  MATERIAL CALLOUTS  Concrete Composite Armor  Carbon Tactical Fabric  Matte Black Nylon  Industrial Rubber  Forged Titanium Components  Orange Energy Lighting  COLOR PALETTE  Concrete White  Matte Black  Graphite Gray  Charcoal  Burnt Orange Glow  Dark Steel  EXPRESSION SHEET  Neutral  Focused  Competitive  Confident Smile  Game Face  Victory Expression  ACTION SILHOUETTES  Ball Juggle  Around The World  Elastico  Rainbow Flick  Backheel  Crossover  Street Sprint  Ball Stall  CAMERA CALLOUTS  Hero Shot Low Angle  Turnaround Orthographic  Close-up Macro Lens  Dynamic Pose 35mm Tracking Camera  Hero Pose 24mm Cinematic Lens  SFX LABELS  WHOOSH  SWISH  TAP  BOUNCE  THUD  ZIP  SPIN  SKRT  VROOM  RUSH  MUSIC HIT  CROWD CHEER  SLOW MOTION LABELS  120 FPS  240 FPS  Freeze Frame  Motion Trails  Speed Ramping  GUIDELINES  Maintain consistent proportions across all views.  Keep the brutalist design language consistent.  Emphasize concrete-inspired hard surfaces contrasted with flexible tactical fabrics.  Preserve the glowing orange visor as the primary focal point.  Use clean production callouts with arrows and labels.  Include measurement guides, material notes, and design annotations.  Keep presentation minimal and premium.  Avoid clutter.  Professional concept art quality suitable for AAA game development, cinematic production, and advertising pitch decks.  LAYOUT  16:9 Landscape  Top Center: MAIN TITLE STREET FLOW // BRUTALIST FREESTYLE  Below: Production Character Sheet  Center: Large Hero Character  Left: Front • Side • Back Views  Right: 3/4 View • Action Pose • Hero Pose  Bottom: Close-ups • Materials • Color Palette • Equipment • Football Design • Expressions • Camera Notes • SFX • Slow Motion • Production Annotations  Minimal off-white background with subtle grid guides, technical drawing arrows, clean typography, and premium commercial presentation quality.",
+      "promptPreview": "Use the uploaded reference image as the primary character design reference, preserving the overall silhouette, proportions, futuristic apparel layering, helmet geometry, visor shape, stone-like brutalist armor surfaces, ",
+      "category": "Characters & People",
       "styles": [
-        "Brand",
+        "UI",
         "Poster",
-        "Scenes"
+        "Realistic"
       ],
       "scenes": [
+        "Tech",
         "Commerce",
-        "Creative",
-        "Story"
+        "Education"
       ],
       "featured": false,
       "githubUrl": "https://github.com/freestylefly/awesome-gpt-image-2/blob/main/docs/gallery-part-2.md#case-512"
     },
     {
       "id": 513,
-      "title": "Today's Portrait. ---prompt---",
+      "title": "单色点缀旅行手账插画",
       "image": "/images/case513.jpg",
-      "imageAlt": "Today's Portrait. ---prompt---",
-      "sourceLabel": "@BubbleBrain",
-      "sourceUrl": "https://x.com/BubbleBrain/status/2067158519477059762",
-      "prompt": "Today's Portrait. \n\n---prompt---\nPhotorealistic luxury indoor portrait, Korean chaebol heiress mood, film photography aesthetic, strong highlight bloom, soft halation, subtle grain, slightly overexposed highlights, cold luxurious atmosphere, vertical 9:16 composition.\n\nA beautiful young Chinese Internet Celebrity with a refined Korean V-line face, luminous fair skin, realistic skin texture, and a naturally fuller curvy figure with a soft S-shaped silhouette, fuller bust, defined waist, and long graceful legs. She wears cold elegant chaebol-heiress makeup: clean matte-dewy base, softly defined brows, subtle cool-toned eye makeup, clear lashes, faint blush, and muted rose-brown glossy lips. Long slightly tousled dark hair, delicate earrings.\n\nOutfit: luxury at-home loungewear, elegant and tasteful, such as a soft ivory or champagne satin camisole with a loose knit cardigan or silky robe, paired with refined short lounge bottoms, creating a relaxed but expensive private-luxury feeling.\n\nScene: ultra-luxury penthouse living room at night, soft carpet floor, designer sofa nearby, dim ambient lighting, dark glass windows, subtle city lights in the background, polished interior, quiet wealthy private-night atmosphere.\n\nPose: squatting / crouched seated on the floor, facing the camera directly, body slightly tucked in naturally, one arm resting lightly on her knee, the other hand relaxed on the floor, both legs folded elegantly to emphasize curves and leg length. Expression: calm, distant, slightly tired and half-tipsy, half-lucid, looking straight into the camera.\n\nStyle: low-saturation navy obsidian mood, cold-toned luxury, film highlight bloom, rich-girl private snapshot, elegant, refined, non-explicit.",
-      "promptPreview": "Today's Portrait. \n\n---prompt---\nPhotorealistic luxury indoor portrait, Korean chaebol heiress mood, film photography aesthetic, strong highlight bloom, soft halation, subtle grain, slightly overexpos...",
-      "category": "Photography & Realism",
+      "imageAlt": "单色点缀旅行手账插画",
+      "sourceLabel": "@Sairah_0",
+      "sourceUrl": "https://x.com/Sairah_0/status/2071779087396606433",
+      "prompt": "Create a charming editorial travel illustration of {DESTINATION} in a simple hand-drawn doodled style, as if sketched by hand with a black felt-tip marker in a travel notebook. The illustration should feel personal, spontaneous, and imperfect rather than digitally designed. Think of the kind of drawing someone might casually create while sitting at a café after exploring the destination.** ## COLOR PALETTE Keep the illustration almost entirely black and white. Use **only one accent color: {ONE POINT COLOR}** ## STYLE Draw entirely with black felt-tip pen lines. Use slightly wobbly hand-drawn contours, natural line variation, loose marker strokes, sketch-like confidence, subtle imperfections, slightly open line endings, uneven hand pressure, and occasional overlapping strokes. Every line should clearly look handmade. Avoid perfectly smooth curves, mechanically precise outlines, polished vector graphics, or overly crisp digital rendering. ## SUBJECT Illustrate the unique atmosphere and instantly recognizable identity of **{DESTINATION}** rather than producing a realistic cityscape. Select the destination's most iconic landmarks, characteristic architecture, local transportation, famous scenery, native plants, local animals, regional food, and cultural objects. Focus on the spirit of the destination instead of literal accuracy. ## COMPOSITION Arrange the selected elements into a balanced editorial composition with generous white space. The layout should feel open, light, and effortless, similar to a designer's travel sketchbook. Allow objects to overlap naturally without becoming crowded. Every element should have room to breathe. Keep the composition visually relaxed and uncluttered. Apply the blue sparingly to selected details such as water, sky, windows, signs, clothing accents, decorative highlights, or small architectural features. Never introduce any additional colors. ## DRAWING STYLE Keep every object simple and intentionally simplified. Use flat shapes with minimal interior detail. Avoid realistic textures, gradients, shadows, painterly brushwork, glossy surfaces, or complex rendering. The illustration should remain clean, airy, understated, and highly graphic. ## LINE QUALITY The black marker lines are the main visual feature. Lines should feel confident, casual, lively, expressive, and naturally imperfect. Slightly uneven contours, open edges, variable line thickness, and small drawing inaccuracies are encouraged because they enhance the authentic hand-drawn feeling. ## MOOD Warm. Friendly. Relaxed. Playful. Minimal. Editorial. Contemporary. Elegant through simplicity. The finished artwork should resemble a beautifully designed travel notebook, boutique travel guide, editorial magazine illustration, or lifestyle sketchbook rather than a polished digital illustration. ## IMPORTANT No photorealism. No 3D rendering. No painterly effects. No gradients. No heavy shadows. No glossy lighting. No vector-clean artwork. No excessive detail. No busy composition. Preserve generous white space. Maintain a flat editorial doodle aesthetic with a distinctly handmade character. The final image should instantly evoke **{DESTINATION}** through simple, expressive black felt-tip sketches with subtle sky-blue accents.",
+      "promptPreview": "Create a charming editorial travel illustration of {DESTINATION} in a simple hand-drawn doodled style, as if sketched by hand with a black felt-tip marker in a travel notebook. The illustration should feel personal, spon",
+      "category": "Illustration & Art",
       "styles": [
-        "Architecture",
-        "Photography",
+        "UI",
         "Realistic",
-        "Scenes"
+        "Illustration"
       ],
       "scenes": [
-        "Creative",
-        "Fashion",
-        "Story"
+        "Tech",
+        "Commerce",
+        "Education"
       ],
       "featured": false,
       "githubUrl": "https://github.com/freestylefly/awesome-gpt-image-2/blob/main/docs/gallery-part-2.md#case-513"
     },
     {
       "id": 514,
-      "title": "I love this portrait.  So I share it. ---prompt---",
+      "title": "硬边现代艺术人像",
       "image": "/images/case514.jpg",
-      "imageAlt": "I love this portrait.  So I share it. ---prompt---",
-      "sourceLabel": "@BubbleBrain",
-      "sourceUrl": "https://x.com/BubbleBrain/status/2066425489041023111",
-      "prompt": "I love this portrait.  So I share it. \n\n---prompt---\nPhotorealistic modern Tokyo apartment boudoir portrait, cinematic Japanese photobook aesthetic, vertical 2:3 composition, eye-level to slightly low-angle full-body portrait, intimate indoor night scene.\n\nA beautiful young Chinese internet celebrity woman in her mid-20s, sitting naturally on the floor in a modern Tokyo apartment at night. She has a tall, slender, elegant figure with long legs, softly curvy feminine body lines, a defined waist, subtle waist-to-hip contour, realistic anatomy, visible collarbones, natural skin texture, and luminous fair skin. She has long slightly tousled dark hair with soft messy volume, a few loose strands framing her face, delicate dangling earrings, subtle glossy lips, and soft Japanese-inspired glamorous makeup.\n\nExpression: clearly readable eye-roll expression 🙄, looking slightly upward with a mildly annoyed, impatient, aloof, and bored attitude, while still looking stylish and attractive.\n\nOutfit: a fitted off-shoulder draped top in a soft smoky lavender-grey tone, paired with a tight bodycon mini skirt that hugs the hips. She wears glossy sheer white pantyhose with a luminous pearlescent shine and subtle reflective highlights, barefoot, no shoes. The styling feels sensual, elegant, fashionable, and non-explicit.\n\nPose: sitting naturally on the floor in a relaxed feminine pose, with one leg bent closer to the body and the other leg extended slightly forward or diagonally outward to create a long elegant leg line. Her posture is relaxed and casual, with the upper body upright and slightly leaning back or to one side for a natural candid feeling. One hand rests softly on the floor for support, while the other hand rests on her thigh or lightly touches the skirt. The pose should feel effortless, intimate, and flattering, with clear emphasis on long legs and graceful body proportions.\n\nCamera and composition: full-body framing, photographed from a slightly lower angle to enhance the length of the legs and overall body line, while still keeping the face clearly visible and expressive. The composition should feel natural, stylish, and balanced.\n\nScene: a cozy modern Tokyo apartment at night, soft carpet floor, low table with magazines and small personal items, warm floor lamp, bed nearby with slightly messy bedding, large windows showing blurred city lights and urban night skyline outside, calm private late-night atmosphere.\n\nLighting and aesthetic: Ricoh GR III HDF effect, soft highlight diffusion, dreamy bloom, glowing halation around the lamp and city lights, soft haze, slight overexposure in highlights, low contrast, warm indoor light mixed with cool night city ambience, subtle film grain, nostalgic Japanese photobook mood, realistic fashion editorial photography.\n\nMood: intimate, stylish, private, late-night, elegant, slightly moody, emotionally distant, cinematic, realistic.",
-      "promptPreview": "I love this portrait.  So I share it. \n\n---prompt---\nPhotorealistic modern Tokyo apartment boudoir portrait, cinematic Japanese photobook aesthetic, vertical 2:3 composition, eye-level to slightly low...",
-      "category": "Photography & Realism",
+      "imageAlt": "硬边现代艺术人像",
+      "sourceLabel": "@SimplyAnnisa",
+      "sourceUrl": "https://x.com/SimplyAnnisa/status/2071783914595897555",
+      "prompt": "A striking piece of hard-edge modern art on matte archival paper, with visible screen-printing layers and slight ink misalignment. A young East Asian woman is captured in a sharp, three-quarter profile. Her facial features are rendered with precise, crisp contours, contrasting with abstract, luminous geometric shapes that seem to emanate from within her skin. She wears a sleek, high-collared jacket in deep midnight blue, adorned with a single, bold neon coral brooch in the shape of a sharp triangle. Her dark hair is styled in a severe, architectural bob with blunt edges. Her expression is calm and detached, eyes gazing off-frame. The background is a clean, architectural space with sharp diagonal planes in crisp white and deep slate. High-contrast chiaroscuro lighting highlights the edges of her silhouette. Sophisticated palette: deep midnight blue, crisp white, electric neon coral. A stray cat tail is rendered as a sharp, geometric vector in the bottom left corner. Ultra-modern artistic style. No digital CGI feel.\ndutch angle, stray cat tail --ar 9:16",
+      "promptPreview": "A striking piece of hard-edge modern art on matte archival paper, with visible screen-printing layers and slight ink misalignment. A young East Asian woman is captured in a sharp, three-quarter profile. Her facial featur",
+      "category": "Illustration & Art",
       "styles": [
-        "Illustration",
-        "Photography",
-        "Realistic",
-        "Scenes"
+        "3D"
       ],
       "scenes": [
-        "Creative",
-        "Fashion",
-        "Story"
+        "Tech",
+        "Commerce"
       ],
       "featured": false,
       "githubUrl": "https://github.com/freestylefly/awesome-gpt-image-2/blob/main/docs/gallery-part-2.md#case-514"

@@ -1,6 +1,6 @@
 # Illustration & Art Prompts
 
-A collection of 65 GPT Image 2 prompts for illustration & art.
+A collection of 63 GPT Image 2 prompts for illustration & art.
 
 | # | Title | Image |
 |---|-------|-------|
@@ -57,10 +57,8 @@ A collection of 65 GPT Image 2 prompts for illustration & art.
 | 495 | 巴黎街头故事书插画 | ![巴黎街头故事书插画](/public/images/cases/case495.jpg) |
 | 498 | 铅笔画背景 3D 分身 | ![铅笔画背景 3D 分身](/public/images/cases/case498.jpg) |
 | 504 | 粗糙涂鸦人像改图 | ![粗糙涂鸦人像改图](/public/images/cases/case504.jpg) |
-| 507 | Please transform the entire image into a single Decorative Folk Flat Illustratio | ![Please transform the entire image into a single Decorative Folk Flat Illustratio](/public/images/cases/case507.jpg) |
-| 508 | Transform the uploaded travel photo into a charming hand-drawn anime illustratio | ![Transform the uploaded travel photo into a charming hand-drawn anime illustratio](/public/images/cases/case508.jpg) |
-| 509 | Turn this real-life selfie into a playful hand-drawn cartoon illustration, cute | ![Turn this real-life selfie into a playful hand-drawn cartoon illustration, cute](/public/images/cases/case509.jpg) |
-| 510 | Create a stylized watercolor and gouache illustration based on the following art | ![Create a stylized watercolor and gouache illustration based on the following art](/public/images/cases/case510.jpg) |
+| 513 | 单色点缀旅行手账插画 | ![单色点缀旅行手账插画](/public/images/cases/case513.jpg) |
+| 514 | 硬边现代艺术人像 | ![硬边现代艺术人像](/public/images/cases/case514.jpg) |
 | 519 | Please transform the entire image into a single Decorative Folk Flat Illustratio | ![Please transform the entire image into a single Decorative Folk Flat Illustratio](/public/images/cases/case519.jpg) |
 | 521 | Flat editorial illustration of the person from the attached photo, wearing the s | ![Flat editorial illustration of the person from the attached photo, wearing the s](/public/images/cases/case521.jpg) |
 | 527 | { "prompt": "A stylized low-angle close-up portrait of the same man from the ref | ![{ "prompt": "A stylized low-angle close-up portrait of the same man from the ref](/public/images/cases/case527.jpg) |
@@ -1036,69 +1034,22 @@ A collection of 65 GPT Image 2 prompts for illustration & art.
 > 
 > Create exaggerated facial features with awkward proportions, uneven eyes, oversized head, tiny body, crooked smile, and clumsy anatomy while still keeping the person recognizable. Use rough childish sketch lines, shaky hand-drawn strokes, visible scribbles, overlapping outlines, accidental marks, and random doodles around the scene. Add a simple cartoon-style background with badly drawn buildings, trees, clouds, street elements, and uneven perspective. Coloring should look careless and imperfect, with visible stroke texture, inconsistent fill areas, wax crayon texture, marker bleed, and irregular shading. Include playful imperfections like crossed-out lines, unfinished details, random arrows, tiny notes, stars, swirls, and abstract scribbles. Overall aesthetic should feel humorous, spontaneous, handmade, energetic, goofy, and intentionally unpolished, resembling a child's sketchbook mixed with absurd internet meme art. High texture detail, paper grain visible, asymmetrical composition, awkward framing, expressive doodle chaos, raw sketch energy.
 
-### Please transform the entire image into a single Decorative Folk Flat Illustratio
+### 单色点缀旅行手账插画
 
-**Source:** @Ciri_ai - [https://x.com/Ciri_ai/status/2066742340434424079](https://x.com/Ciri_ai/status/2066742340434424079)
+**Source:** @Sairah_0 - [https://x.com/Sairah_0/status/2071779087396606433](https://x.com/Sairah_0/status/2071779087396606433)
 
-![Please transform the entire image into a single Decorative Folk Flat Illustratio](/public/images/cases/case507.jpg)
+![单色点缀旅行手账插画](/public/images/cases/case513.jpg)
 
-> Please transform the entire image into a single Decorative Folk Flat Illustration with Doodle elements. Use a bold and playful color palette, completely different from the original image. Simplify all details into clean, flat shapes with a handmade, slightly imperfect feel, as if drawn on a sheet of white paper. The overall style should look cute, childlike, and whimsical
+> Create a charming editorial travel illustration of {DESTINATION} in a simple hand-drawn doodled style, as if sketched by hand with a black felt-tip marker in a travel notebook. The illustration should feel personal, spontaneous, and imperfect rather than digitally designed. Think of the kind of drawing someone might casually create while sitting at a café after exploring the destination.** ## COLOR PALETTE Keep the illustration almost entirely black and white. Use **only one accent color: {ONE POINT COLOR}** ## STYLE Draw entirely with black felt-tip pen lines. Use slightly wobbly hand-drawn contours, natural line variation, loose marker strokes, sketch-like confidence, subtle imperfections, slightly open line endings, uneven hand pressure, and occasional overlapping strokes. Every line should clearly look handmade. Avoid perfectly smooth curves, mechanically precise outlines, polished vector graphics, or overly crisp digital rendering. ## SUBJECT Illustrate the unique atmosphere and instantly recognizable identity of **{DESTINATION}** rather than producing a realistic cityscape. Select the destination's most iconic landmarks, characteristic architecture, local transportation, famous scenery, native plants, local animals, regional food, and cultural objects. Focus on the spirit of the destination instead of literal accuracy. ## COMPOSITION Arrange the selected elements into a balanced editorial composition with generous white space. The layout should feel open, light, and effortless, similar to a designer's travel sketchbook. Allow objects to overlap naturally without becoming crowded. Every element should have room to breathe. Keep the composition visually relaxed and uncluttered. Apply the blue sparingly to selected details such as water, sky, windows, signs, clothing accents, decorative highlights, or small architectural features. Never introduce any additional colors. ## DRAWING STYLE Keep every object simple and intentionally simplified. Use flat shapes with minimal interior detail. Avoid realistic textures, gradients, shadows, painterly brushwork, glossy surfaces, or complex rendering. The illustration should remain clean, airy, understated, and highly graphic. ## LINE QUALITY The black marker lines are the main visual feature. Lines should feel confident, casual, lively, expressive, and naturally imperfect. Slightly uneven contours, open edges, variable line thickness, and small drawing inaccuracies are encouraged because they enhance the authentic hand-drawn feeling. ## MOOD Warm. Friendly. Relaxed. Playful. Minimal. Editorial. Contemporary. Elegant through simplicity. The finished artwork should resemble a beautifully designed travel notebook, boutique travel guide, editorial magazine illustration, or lifestyle sketchbook rather than a polished digital illustration. ## IMPORTANT No photorealism. No 3D rendering. No painterly effects. No gradients. No heavy shadows. No glossy lighting. No vector-clean artwork. No excessive detail. No busy composition. Preserve generous white space. Maintain a flat editorial doodle aesthetic with a distinctly handmade character. The final image should instantly evoke **{DESTINATION}** through simple, expressive black felt-tip sketches with subtle sky-blue accents.
 
-### Transform the uploaded travel photo into a charming hand-drawn anime illustratio
+### 硬边现代艺术人像
 
-**Source:** @Taaruk_ - [https://x.com/Taaruk_/status/2067624585785487681](https://x.com/Taaruk_/status/2067624585785487681)
+**Source:** @SimplyAnnisa - [https://x.com/SimplyAnnisa/status/2071783914595897555](https://x.com/SimplyAnnisa/status/2071783914595897555)
 
-![Transform the uploaded travel photo into a charming hand-drawn anime illustratio](/public/images/cases/case508.jpg)
+![硬边现代艺术人像](/public/images/cases/case514.jpg)
 
-> Transform the uploaded travel photo into a charming hand-drawn anime illustration while perfectly preserving the original pose, composition, clothing, hand-holding gesture, mountain landscape, and camera angle. Cute couple standing together with arms raised, joyful expressions, soft smiles, bright adventure mood.
-> 
-> Background: majestic snow-capped mountains, lush green valley, wildflowers, blue sky, fluffy white clouds. Add whimsical doodle elements including hand-drawn sun, stars, hearts, clouds, airplane trail, sparkles, and playful travel-themed sketches. Wooden signboard with handwritten text “GOOD VIBES”, handwritten note “Adventure Time”.
-> 
-> Style: Studio Ghibli-inspired travel postcard, pastel colors, clean line art, soft painterly shading, vibrant yet cozy atmosphere, storybook illustration, kawaii aesthetic, dreamy vacation vibe, high detail, ultra cute characters, warm sunlight, cheerful summer day.
-> 
-> Composition: full-body characters centered in frame, scenic landscape stretching behind them, balanced poster design, social-media-ready artwork, travel diary illustration, whimsical doodles integrated naturally around the scene.
-> 
-> Quality: masterpiece, highly detailed, professional illustration, crisp outlines, soft textures, vibrant colors, 4K, anime travel artwork, magical atmosphere, adorable expressions, perfect character consistency.
-
-### Turn this real-life selfie into a playful hand-drawn cartoon illustration, cute
-
-**Source:** @Taaruk_ - [https://x.com/Taaruk_/status/2066809156217274808](https://x.com/Taaruk_/status/2066809156217274808)
-
-![Turn this real-life selfie into a playful hand-drawn cartoon illustration, cute](/public/images/cases/case509.jpg)
-
-> Turn this real-life selfie into a playful hand-drawn cartoon illustration, cute doodle art style, top-down selfie perspective, stylish couple wearing black outfits and sunglasses, man with mustache, green plaid cap with bold white text, brown crossbody bag, woman with hair bun, holding ice cream cones, cheerful and cozy summer vibe.
-> 
-> Bright white background filled with colorful doodles: smiling sun, flowers, hearts, stars, leaves, squiggles, clouds, tiny dots, playful hand-drawn decorations surrounding the characters. Soft pastel palette with vibrant accents, children's book illustration style, sticker art aesthetic, whimsical and charming.
-> 
-> Flat vector illustration, clean bold outlines, simplified facial features, rosy cheeks, expressive cartoon eyes, textured brush strokes, vibrant colors, high detail, cute lifestyle artwork, Instagram-friendly illustration, cozy relationship aesthetic, modern doodle poster, joyful mood.
-> 
-> Composition:
-> - Overhead selfie angle
-> - Couple centered
-> - Ice cream cones visible
-> - Green cap and black sunglasses preserved
-> - Decorative doodles evenly filling the background
-> - Clean white canvas
-> 
-> Style references:
-> cute doodle illustration, Scandinavian children's book art, whimsical sticker design, colorful hand-painted cartoon, playful digital illustration, kawaii aesthetic, modern lifestyle artwork, trending social media illustration.
-
-### Create a stylized watercolor and gouache illustration based on the following art
-
-**Source:** @Ciri_ai - [https://x.com/Ciri_ai/status/2067088864523805046](https://x.com/Ciri_ai/status/2067088864523805046)
-
-![Create a stylized watercolor and gouache illustration based on the following art](/public/images/cases/case510.jpg)
-
-> Create a stylized watercolor and gouache illustration based on the following artistic style. Do not invent a new scene, transform the user's reference photo using these exact visual characteristics:
-> 
-> - Style: Modern gouache folk art illustration with hand-painted watercolor textures and a matte finish.
-> - Anatomy & Lines: Distorted anatomy, expressive blocky shapes, fluid outlines, and visible soft brushstrokes.
-> 
-> - Facial Features: Stylized closed eyes, thin arched eyebrows, a long sharp nose, and simple flat lips. Distinct, clean, and minimalist facial structures.
-> - Complexion: Warm skin tones, heavy distinct freckles, and prominent rosy textured cheeks with a stippled or dry-brush effect.
-> - Composition: Organic flowing composition, interwoven layers, shallow depth of field, and a soft pastel background with vibrant botanical overlays.
-> 
-> - Color Palette: Warm earth tones contrasted against cool botanical accent colors.
+> A striking piece of hard-edge modern art on matte archival paper, with visible screen-printing layers and slight ink misalignment. A young East Asian woman is captured in a sharp, three-quarter profile. Her facial features are rendered with precise, crisp contours, contrasting with abstract, luminous geometric shapes that seem to emanate from within her skin. She wears a sleek, high-collared jacket in deep midnight blue, adorned with a single, bold neon coral brooch in the shape of a sharp triangle. Her dark hair is styled in a severe, architectural bob with blunt edges. Her expression is calm and detached, eyes gazing off-frame. The background is a clean, architectural space with sharp diagonal planes in crisp white and deep slate. High-contrast chiaroscuro lighting highlights the edges of her silhouette. Sophisticated palette: deep midnight blue, crisp white, electric neon coral. A stray cat tail is rendered as a sharp, geometric vector in the bottom left corner. Ultra-modern artistic style. No digital CGI feel.
+> dutch angle, stray cat tail --ar 9:16
 
 ### Please transform the entire image into a single Decorative Folk Flat Illustratio
 
