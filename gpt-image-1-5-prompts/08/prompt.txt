@@ -1,8 +1,0 @@
-Title: GPT Image 1.5 与 Grok Imagine 0.9 对比
-Author: @Sanchit | AI Tools & News (https://x.com/AIwithSanchit)
-Source: https://x.com/AIwithSanchit/status/2001728985131360723
-Link: https://aiart.pics/prompt/gpt-image-1-5-vs-grok-imagine-0-9-comparison
-============================================================
-
-GPT Image 1.5 (left) vs Grok Imagine 0.9 (right)
-Prompt: Generate a moody cinematic portrait of a young male model with light skin, soft textured wavy hair, dressed in a fitted black suit with dark shirt, standing against a black background, harsh directional lighting from the left casting deep shadows, model looking forward with piercing eyes and a tense jawline, one hand clutching his collar near the neck, motion blur effect slicing across the face horizontally from left to right, blending light streaks in muted amber and beige tones, sharp contrast between still and blurred zones, stylized editorial tone with subtle film grain and soft falloff, no digital smoothness or plasticity, skin texture and shadows intact, emotionally charged expression, light halo around hair, minimal background details.

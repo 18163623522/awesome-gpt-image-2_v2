@@ -1,6 +1,6 @@
 # Photography & Realism Prompts
 
-A collection of 104 GPT Image 2 prompts for photography & realism.
+A collection of 108 GPT Image 2 prompts for photography & realism.
 
 | # | Title | Image |
 |---|-------|-------|
@@ -78,8 +78,12 @@ A collection of 104 GPT Image 2 prompts for photography & realism.
 | 505 | 夜间手机光沙发肖像 | ![夜间手机光沙发肖像](/public/images/cases/case505.jpg) |
 | 508 | 木漏日庭院俯拍猫咪人像 | ![木漏日庭院俯拍猫咪人像](/public/images/cases/case508.jpg) |
 | 509 | 涂鸦拉衣奔跑棚拍 | ![涂鸦拉衣奔跑棚拍](/public/images/cases/case509.jpg) |
-| 518 | 花田风动夏日人像 | ![花田风动夏日人像](/public/images/cases/case518.jpg) |
-| 525 | 酒红棚拍男士时尚肖像 | ![酒红棚拍男士时尚肖像](/public/images/cases/case525.jpg) |
+| 515 | Today's Portrait. ---prompt--- | ![Today's Portrait. ---prompt---](/public/images/cases/case515.jpg) |
+| 516 | 🤫🤫 ---prompt--- | ![🤫🤫 ---prompt---](/public/images/cases/case516.jpg) |
+| 517 | World cup for Argentina. ---prompt--- | ![World cup for Argentina. ---prompt---](/public/images/cases/case517.jpg) |
+| 522 | luxury spa and swimwear editorial, face-centered bust composition, captured wi | ![luxury spa and swimwear editorial, face-centered bust composition, captured wi](/public/images/cases/case522.jpg) |
+| 523 | premium fashion magazine swimwear advertisement, knee-up composition, photogra | ![premium fashion magazine swimwear advertisement, knee-up composition, photogra](/public/images/cases/case523.jpg) |
+| 524 | Anime Illustration GPT Image 2 on ChatGPT | ![Anime Illustration GPT Image 2 on ChatGPT](/public/images/cases/case524.jpg) |
 | 528 | Today's portrait. ---prompt--- | ![Today's portrait. ---prompt---](/public/images/cases/case528.jpg) |
 | 529 | Today's Portrait by gpt image 2 ---prompt--- | ![Today's Portrait by gpt image 2 ---prompt---](/public/images/cases/case529.jpg) |
 | 531 | luxury resort swimwear advertisement, full body composition, photographed with | ![luxury resort swimwear advertisement, full body composition, photographed with](/public/images/cases/case531.jpg) |
@@ -1365,47 +1369,106 @@ A collection of 104 GPT Image 2 prompts for photography & realism.
 
 > A playful, high-key studio portrait of [subject] running joyfully across a seamless light gray background, captured mid-stride with one leg lifted and a wide genuine smile. The subject wears a casual oversized outfit with soft neutral tones (or vibrant colors), creating a dynamic sense of motion. Behind them, a simple black hand-drawn cartoon stick figure grabs and stretches the back of their shirt, making the fabric appear elastically pulled as if trying to stop them. The doodle character is integrated naturally into the scene with expressive motion lines and a humorous facial expression. The subject holds a fun prop (such as a dinosaur toy, oversized lollipop, teddy bear, or balloon), enhancing the playful storytelling. Minimalist composition, clean studio lighting, soft shadows, ultra-sharp focus, realistic skin texture, vibrant yet natural colors, whimsical editorial photography, premium children’s fashion campaign aesthetic, highly detailed, photorealistic, 8K.
 
-### 花田风动夏日人像
+### Today's Portrait. ---prompt---
 
-**Source:** @lovimg_com - [https://x.com/lovimg_com/status/2077036746198618336](https://x.com/lovimg_com/status/2077036746198618336)
+**Source:** @BubbleBrain - [https://x.com/BubbleBrain/status/2066770883260318074](https://x.com/BubbleBrain/status/2066770883260318074)
 
-![花田风动夏日人像](/public/images/cases/case518.jpg)
+![Today's Portrait. ---prompt---](/public/images/cases/case515.jpg)
 
-> 主題：
-> 花風のまどろみ
+> Today's Portrait. 
 > 
-> 主体：
-> 縦長4:5の写真風ポートレート。白と黄色のマーガレット、オレンジ色の小花が密に咲く夏の草花畑に、成熟した大人の女性が仰向けで静かに横たわっている。人物は画面下部から中央にかけて大きく入り、顔は中央やや右、胸元から肩までは画面下側に収まる。周囲の花が画面全体を埋め、対角線方向に流れる花のモーションブラーが前景を横切る。
-> 
-> 人物・表情：
-> 自然で現実感のある日系ポートレート。暗めのブラウンロングヘアに、薄い前髪と顔まわりのやわらかな毛束。目を閉じ、眉は力が抜け、唇は軽く閉じた穏やかな表情。頬と鼻先に自然な血色、肌には過度な補正をせず細かな質感を残す。首筋、鎖骨、頬に夏の日差しが当たり、静かに眠っているような落ち着いた雰囲気。
-> 
-> 服装・ポーズ：
-> 白い夏用キャミソールワンピース。細い肩紐、胸元の控えめなレース、中央の小さなリボン、薄手のコットン素材。人物の両肩は草花に自然に沈み、片腕は画面下側で花に隠れて見切れる。体は画面左下から右上へ少し斜めに置かれ、髪は草の上に広がり、風で数本だけ額にかかる。
-> 
-> 背景・光：
-> 郊外にある小さな花畑のような、生活感のある自然な草花の密度。背景はすべて緑の葉と白・黄色・オレンジの花で構成し、人工物や読める文字は入れない。高めの位置から差す夏の太陽光。光はやや硬めで暖かく、顔の左側と首筋、肩に明るいハイライトが入り、花と髪の影が肌に細く落ちる。草の反射で下側に淡い緑の返り光。
-> 
-> 構図・カメラ：
-> やや俯瞰の近距離撮影。85mm相当の自然な圧縮感、人物の顔にピントを合わせ、周辺の花は浅い被写界深度で少しぼける。前景の花だけが風に流され、白・黄色・オレンジの細長い光跡として左上から右下へ走る。顔まわりはブラーを弱め、表情と肌の質感をはっきり見せる。
-> 
-> 質感・スタイル：
-> リアルな写真表現。夏の日差し、透明感のある肌、柔らかな髪の束感、薄手コットンのしわ、草花の細密な質感。ナチュラルな色調で、緑を深く、白い花を明るく、オレンジの花をアクセントにする。フィルム写真のようなわずかな粒子感と、雑誌ポートレートの落ち着いた仕上がり。
-> 
-> ネガティブ：
-> 不自然な顔、不自然な視線、余分な指、欠けた指、手足の融合、関節の破綻、服と体の接触不良、浮遊、不自然な重力、誤った遠近法、光源と矛盾する影、過度な美肌補正、プラスチックのような肌、文字化け、ロゴ、透かし。
+> ---prompt--- 
+> Photorealistic Korean female idol-inspired lifestyle fashion portrait, soft film photography aesthetic, cozy bedroom photoshoot, vertical 2:3 composition, eye-level to slightly low-angle medium-full body shot. A beautiful young adult Korean woman in her mid-20s with a curvy figure, natural S-shaped silhouette, slim waist, fuller hips, long legs, visible collarbones, luminous fair skin, and realistic skin texture. She has a messy high bun with soft loose strands framing her face, soft peach makeup, peach blush, glossy peach lips, subtle shimmer on the eyelids, and delicate dangling earrings. She is kneeling on a soft bed, leaning slightly forward toward the camera in a graceful and natural pose, with both hands visible, expressing a sweet, relaxed, and feminine mood. She wears a peach-pink satin camisole sleepwear set with thin straps and subtle lace trim, styled in an elegant and tasteful way. The room is warm and cozy, with white or cream bedding, a fluffy blanket, pillows, and a simple vanity corner in the background. Soft film look, warm tones, gentle grain, natural highlight bloom, and a refined, intimate, stylish atmosphere.
 
-### 酒红棚拍男士时尚肖像
+### 🤫🤫 ---prompt---
 
-**Source:** @iamsofiaijaz - [https://x.com/iamsofiaijaz/status/2090294894187413883](https://x.com/iamsofiaijaz/status/2090294894187413883)
+**Source:** @BubbleBrain - [https://x.com/BubbleBrain/status/2065396386640920956](https://x.com/BubbleBrain/status/2065396386640920956)
 
-![酒红棚拍男士时尚肖像](/public/images/cases/case525.jpg)
+![🤫🤫 ---prompt---](/public/images/cases/case516.jpg)
 
-> A cinematic, ultra-realistic close-up portrait of a stylish man, using the provided image as an accurate face reference. Preserve his natural facial identity, thick naturally curly dark brown hair, neatly trimmed salt-and-pepper beard, strong masculine facial structure, and realistic facial proportions. He wears sophisticated round vintage amber-brown sunglasses and a premium deep burgundy suede jacket over a fitted black silk-knit shirt, creating a refined luxury fashion aesthetic.
+> 🤫🤫 
 > 
-> Warm cinematic studio lighting with a soft amber-golden key light illuminating the face from the front-left, complemented by a subtle crimson-red rim light outlining the hair and shoulders. The background is a rich burgundy, wine-red, and dark plum gradient, with soft atmospheric haze and subtle diffused light creating depth without distracting from the subject. Elegant warm highlights contrast beautifully against the dark clothing.
+> ---prompt---
+> Photorealistic Japanese private boudoir fashion portrait, cinematic Japanese photobook aesthetic, vertical 9:16 composition, eye-level full-body portrait, intimate indoor scene.
 > 
-> Extremely detailed natural skin texture, individual beard hairs, realistic pores, subtle facial imperfections, sharp eyes visible behind slightly tinted lenses, natural reflections on the sunglasses, rich dimensional shadows, realistic fabric and suede texture, shallow depth of field. Sophisticated luxury fashion campaign, mysterious and confident mood, premium men's editorial photography, cinematic color grading, photorealistic, HDR, professional studio photography, 85mm portrait lens, f/1.8, crisp facial details, soft background bokeh, centered composition, head-and-shoulders framing, powerful masculine presence, understated elegance, 3:4 aspect ratio.
+> A beautiful young Chinese internet celebrity in her mid-20s in a quiet private room at night. She has a fuller, curvier feminine figure with a defined waist, elegant waist-to-hip contour, fuller bust and hips, soft natural curves, long legs, realistic anatomy, visible collarbones, natural skin texture, and luminous skin. She has long slightly tousled dark hair with soft messy volume, a few loose strands framing her face, delicate dangling earrings, subtle glossy lips, and a calm, intimate, slightly playful yet melancholic expression.
+> 
+> Outfit: an elegant refined Japanese kimono in soft ivory, muted lavender, and dusty plum tones, with delicate floral and traditional pattern details, luxurious draped fabric, long flowing sleeves, and a beautifully wrapped obi belt that accentuates the waist. The kimono should feel graceful, feminine, and traditional yet still fashionable and flattering. She wears glossy white sheer pantyhose with a luminous pearlescent shine, smooth delicate texture, and subtle highlight reflections. She is not wearing shoes, barefoot in white glossy pantyhose. The styling should feel sensual yet elegant, tasteful, distinctly Japanese, and non-explicit.
+> 
+> Pose: kneeling gracefully on the tatami floor in a refined seiza-inspired pose, legs folded neatly beneath her, upper body upright yet relaxed, creating a poised feminine posture. One hand is raised with her index finger placed softly in front of her lips in a gentle “shh” gesture, while the other hand rests softly on her thigh or beside her on the tatami. Her body language should feel intimate, private, soft, and subtly alluring, with a quiet secretive mood rather than an exaggerated pose.
+> 
+> Expression: calm eye contact with the camera, slightly mysterious, intimate, and quietly teasing, as if sharing a private secret. The “shh” gesture should feel natural, elegant, and emotionally engaging.
+> 
+> Scene: a quiet Japanese-style room at night, tatami floor, shoji paper screens, low wooden table, folded bedding nearby, soft warm bedside lamp, subtle personal items placed naturally in the room, gentle shadows, calm private atmosphere, refined Japanese interior details, subtle feeling of solitude.
+> 
+> Lighting and aesthetic: Ricoh GR III HDF effect, strong highlight diffusion, dreamy bloom, glowing halation around the lamp and practical lights, soft haze, slight overexposure in highlights, low contrast, warm indoor light mixed with faint cool night ambience, clean and polished image quality, smooth tonal transitions, soft luminous highlights, no visible film grain, no analog noise, no gritty texture, nostalgic Japanese photobook mood.
+> 
+> Mood: intimate, quiet, elegant, slightly secretive, melancholic, private late-night atmosphere, emotional, refined, cinematic, realistic fashion editorial, Japanese photobook realism.
+> 
+> Negative prompt: extra fingers, distorted hands, unrealistic anatomy, bad proportions, deformed feet, awkward pose, plastic skin, overly exaggerated expression, explicit nudity, vulgar styling, blurry face, low quality, harsh digital sharpness, visible film grain, heavy noise, gritty texture.
+
+### World cup for Argentina. ---prompt---
+
+**Source:** @BubbleBrain - [https://x.com/BubbleBrain/status/2066143248779993553](https://x.com/BubbleBrain/status/2066143248779993553)
+
+![World cup for Argentina. ---prompt---](/public/images/cases/case517.jpg)
+
+> World cup for Argentina. 
+> 
+> ---prompt---
+> Photorealistic football supporter portrait, Japanese photobook aesthetic, Ricoh GR III HDF photography, vertical 9:16 composition, medium-full portrait, eye-level candid shot.
+> 
+> A beautiful adult Chinese woman in her mid-20s with a naturally curvy feminine figure, pronounced S-shaped silhouette, defined waist, fuller bust and hips, long elegant legs, luminous fair skin, realistic skin texture, glossy lips, long slightly messy dark hair, playful confident expression.
+> 
+> Outfit: stylish Argentina-inspired supporter fashion. A fitted sky-blue-and-white football supporter top with Argentina team colors and subtle crest details, paired with a short black skirt and glossy sheer black pantyhose. Argentina supporter scarf casually draped around her shoulders. Modern Tokyo nightlife styling.
+> 
+> Pose: sitting casually at a wooden izakaya table during a World Cup match. One elbow resting on the table, body slightly angled toward the camera, direct eye contact, relaxed smile. Elegant posture emphasizing natural curves.
+> 
+> Scene: crowded Japanese izakaya during a World Cup night. Warm lantern light, beer mugs, football scarves, TV screens showing the match, cheering supporters. The woman remains sharp while people around her appear with subtle long-exposure motion blur, creating energy and atmosphere.
+> 
+> Lighting: strong direct flash mixed with warm ambient izakaya lighting. Ricoh GR III HDF highlight bloom and halation around lanterns, TV screens, glass reflections, and background lights. Soft CCD glow, dreamy highlight spill, slight overexposure, nostalgic Y2K digital-camera mood.
+> 
+> Mood: authentic football fan culture, Tokyo nightlife, candid photobook atmosphere, cinematic storytelling, energetic yet intimate, premium magazine photography.
+
+### luxury spa and swimwear editorial, face-centered bust composition, captured wi
+
+**Source:** @ToroJushiAi - [https://x.com/ToroJushiAi/status/2067552854575833261](https://x.com/ToroJushiAi/status/2067552854575833261)
+
+![luxury spa and swimwear editorial, face-centered bust composition, captured wi](/public/images/cases/case522.jpg)
+
+> A luxury spa and swimwear editorial, face-centered bust composition, captured with a Leica Q3 and 28mm f/1.7 at eye-level. The setting is an indoor heated spa pool — natural dark stone walls, floor-to-ceiling glass windows overlooking a garden courtyard, faint white steam rising from the heated water surface. A 21-year-old Japanese model stands chest-deep near the stone pool ledge — authentic fashion editorial photography, a natural candid early morning moment in a high-design wellness space.
+> East Asian young woman in her early 20s. Almond-shaped eyes with natural double eyelids, looking directly and calmly into the lens. Straight refined nose with a delicate bridge. Skin tone fair light beige, the spa humidity giving the skin a faint natural luminosity and a clean visual freshness — skin subsurface scattering highly visible under the directional morning window light striking from the left, specular micro-highlights bright and precise on cheekbones and nose ridge, fine foundation powder grain perceptible through the light surface moisture. Naturally straight black hair loosely pinned up, damp short strands framing the nape and temples.
+> She wears a clean minimal white bikini — a simple narrow-strap triangle top and wide smooth-band bottom, the crisp white contrasting powerfully against the dark stone pool surround. Both hands rest flat on the stone ledge at chest height, arms slightly bent. She looks directly into the camera with a steady, even expression — focused yet entirely at rest. Two or three damp short stray strands escape the updo along her neck and one temple, natural unplanned imperfection, not geometrically symmetrical. Steam softens the stone background into a warm translucent atmospheric haze.
+> Low morning window light enters from the left, illuminating one side of her face and catching the steam in the air. The mood is clean, mineral, and meditative. Subtle ISO 400 film grain in shadow areas, photographic noise texture not CG render smoothness. Clean digital edit with precise whites and accurate natural skin tone rendering. Aspect ratio 2:3. No watermark, no text overlay, not cartoon, not digitally painted, not illustration, not anime.
+
+### premium fashion magazine swimwear advertisement, knee-up composition, photogra
+
+**Source:** @ToroJushiAi - [https://x.com/ToroJushiAi/status/2067911641006494108](https://x.com/ToroJushiAi/status/2067911641006494108)
+
+![premium fashion magazine swimwear advertisement, knee-up composition, photogra](/public/images/cases/case523.jpg)
+
+> A premium fashion magazine swimwear advertisement, knee-up composition, photographed with a Nikon Z8 and 85mm f/1.4 from a slightly low angle looking up. The setting is the deck of a luxury motor yacht anchored in an open Mediterranean bay — white lacquered deck, polished stainless steel railing, deep blue sea extending to the horizon under clear afternoon sky. A 24-year-old Japanese model stands at the stern railing — authentic fashion editorial photography, composed with the still confidence of aspirational high-end brand imagery.
+> East Asian young woman in her early 20s. Almond-shaped eyes with natural double eyelids, a direct and steady gaze. Straight refined nose with a slim bridge. Skin tone fair light beige in clear Mediterranean afternoon sunlight — skin subsurface scattering visible as the direct sun catches the cheekbones at a clear three-quarter angle, specular micro-highlights sharp and precise on the cheekbone crests and nose ridge, fine foundation powder grain perceptible in the open shade beneath the chin. Naturally straight black hair worn loose, catching the sea wind.
+> She wears a royal blue one-piece swimsuit with geometric navy contrast side panels, a fully open back, and structured molded cups — the vivid blue commanding against the white deck and deep-blue sea. One hand rests on the stainless steel railing at hip height, the other falls naturally at her side. Her opposite hip tilts slightly forward, chin raised just above neutral. She looks directly into the lens with a calm, composed, self-assured expression. Two or three strands of hair lift and cross her face in the sea breeze, natural unplanned imperfection, not geometrically symmetrical.
+> Clear afternoon Mediterranean sun illuminates her from slightly above, the white yacht surfaces acting as large natural fill reflectors on the shadow side. The mood is confident, clean, and aspirationally nautical — an image of effortless ownership. Subtle ISO 400 film grain in shadow areas, photographic noise texture not CG render smoothness. Clean digital edit with precise saturated color and controlled contrast. Aspect ratio 2:3. No watermark, no text overlay, not cartoon, not digitally painted, not illustration, not anime.
+
+### Anime Illustration GPT Image 2 on ChatGPT
+
+**Source:** @AIwithSynthia - [https://x.com/AIwithSynthia/status/2067580348536668240](https://x.com/AIwithSynthia/status/2067580348536668240)
+
+![Anime Illustration GPT Image 2 on ChatGPT](/public/images/cases/case524.jpg)
+
+> Anime Illustration 
+> 
+> GPT Image 2 on ChatGPT 
+> 
+> Try with your own image and show what you can create 
+> 
+> Prompt :
+> 
+> Transform the uploaded photo into a high-quality anime illustration while preserving the exact people, pose, composition, facial features, clothing, and background from the original image. Keep the characters recognizable and maintain the natural proportions and expressions of the subjects. Use clean anime linework, detailed shading, soft cinematic lighting, realistic reflections, rich colors, and a polished modern anime aesthetic.
+> 
+> Display the anime artwork as the main image and include the original uploaded photo in a small rounded-corner reference box in the bottom-right corner, creating a seamless photo-to-anime comparison. Preserve the same camera angle, framing, and environment as the source image. Add minimal social-media-style interface elements for authenticity. Warm natural lighting, detailed textures, premium illustration quality, realistic depth, fashionable styling, highly detailed faces, sharp focus, masterpiece anime artwork, professional digital illustration, trending contemporary aesthetic.
 
 ### Today's portrait. ---prompt---
 

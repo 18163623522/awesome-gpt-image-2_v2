@@ -1,7 +1,0 @@
-Title: Bender 梯度图铅笔素描
-Author: @JB (https://x.com/JasonBotterill)
-Source: https://x.com/JasonBotterill/status/2001834480257097802
-Link: https://aiart.pics/prompt/bender-schematic-pencil-sketch
-============================================================
-
-gpt-image-1.5 prompt: “Pencil sketch for the schematics of bender”

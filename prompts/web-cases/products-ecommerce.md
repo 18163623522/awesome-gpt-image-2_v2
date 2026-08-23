@@ -1,6 +1,6 @@
 # Products & E-commerce Prompts
 
-A collection of 40 GPT Image 2 prompts for products & e-commerce.
+A collection of 38 GPT Image 2 prompts for products & e-commerce.
 
 | # | Title | Image |
 |---|-------|-------|
@@ -42,8 +42,6 @@ A collection of 40 GPT Image 2 prompts for products & e-commerce.
 | 470 | 本地生活小店异形展架 | ![本地生活小店异形展架](/public/images/cases/case470.jpg) |
 | 475 | 企鹅造型包装结构板 | ![企鹅造型包装结构板](/public/images/cases/case475.jpg) |
 | 485 | 时尚目录电商拼贴 | ![时尚目录电商拼贴](/public/images/cases/case485.jpg) |
-| 517 | 杯内鱼眼夏日冰饮广告 | ![杯内鱼眼夏日冰饮广告](/public/images/cases/case517.jpg) |
-| 519 | 薄荷玫瑰香水电商图 | ![薄荷玫瑰香水电商图](/public/images/cases/case519.jpg) |
 
 ## Prompts
 
@@ -1495,41 +1493,3 @@ A collection of 40 GPT Image 2 prompts for products & e-commerce.
 ![时尚目录电商拼贴](/public/images/cases/case485.jpg)
 
 > Stylish fashion catalog shoot blending streetwear and luxury branding. Female model wearing burgundy slim-fit top and ivory tailored pants, posed in confident relaxed positions across multiple duplicated frames. Slight perspective tilt, dynamic layout collage, soft daylight studio lighting with warm tone grading. Modern shopping website aesthetic, minimal UI-inspired composition, high resolution fashion photography.
-
-### 杯内鱼眼夏日冰饮广告
-
-**Source:** @lovimg_com - [https://x.com/lovimg_com/status/2077036659028484375](https://x.com/lovimg_com/status/2077036659028484375)
-
-![杯内鱼眼夏日冰饮广告](/public/images/cases/case517.jpg)
-
-> 主題：
-> 氷越しの夏
-> 
-> 主体：
-> 縦長2:3のリアル写真。透明な大型プラスチックカップの内側から見上げるような超広角フィッシュアイ構図。画面下半分いっぱいに赤いいちご果肉とクラッシュアイスが迫り、中央から太いグリーンのストローが奥へ一直線に伸びる。丸く歪んだカップの開口部の向こうに、女性の顔が中央に大きく収まる。
-> 
-> 人物・表情：
-> 自然で現実感のある若い女性。黒髪に近いダークブラウンの髪を高めのお団子にまとめ、薄い前髪と顔まわりの後れ毛が日差しで細く光っている。透明感のあるナチュラルメイク、淡いピンクの頬、つやのあるリップ。目を大きく開いてカメラをまっすぐ見つめ、唇を小さく丸めてストローをくわえている。少し驚いたような、可愛らしく無邪気な表情。
-> 
-> 服装・ポーズ：
-> 白いレース素材のブラウス。首元と肩まわりに細かなフリルがあり、夏らしく軽い質感。人物はカップの向こう側に顔を近づけ、両肩は下部に少しだけ見える。ストローは人物の口元に自然に接触し、奥から手前の赤い氷へ向かって強い奥行きを作る。
-> 
-> 背景・光：
-> 背景は晴れた夏の日の古い商店街。木造風の店先、かき氷屋の暖簾、苺柄の看板、白い小さな旗、街路樹が見える。文字はすべてぼかされた読めない装飾として扱う。左上から強い太陽光が入り、透明カップの水滴、カップ縁、氷、赤い果肉に細かな反射とハイライトが出る。影は右下へ落ち、白いクリームの残りがカップ内側にリング状についている。
-> 
-> 構図・カメラ：
-> カメラはカップの底付近、赤い氷のすぐ上に置いたような極端なローアングル。フィッシュアイレンズでカップの円形リムが大きく湾曲し、周囲の商店街も軽く歪む。画面下45％は赤い氷と果肉の前ボケ、中央はストローと女性の顔、上部は青空とカップの透明な縁。ピントは女性の目と口元、手前の氷はきらめく浅いボケ。
-> 
-> 質感・スタイル：
-> プロ用カメラで撮影した夏の広告写真風。透明プラスチックの屈折、水滴の粒、氷の冷たさ、いちご果肉の瑞々しさを高精細に表現。青空、赤い氷、グリーンのストロー、白いブラウスの色の対比を鮮やかにする。肌は自然な質感を残し、過度な美肌補正はしない。明るくポップで、少しユーモラスな日本の夏スイーツ写真。
-> 
-> ネガティブ：
-> 実在ブランドロゴ、読める文字、商標の再現、不自然な顔、不自然な視線、歯や唇の崩れ、ストローとの接触不良、余分な指、欠けた指、手足の融合、氷の浮遊、不自然な重力、誤った遠近法、光源と矛盾する影、文字化け、透かし、過度な美肌補正、プラスチックのような肌。
-
-### 薄荷玫瑰香水电商图
-
-**Source:** @lovimg_com - [https://x.com/lovimg_com/status/2077036313832996893](https://x.com/lovimg_com/status/2077036313832996893)
-
-![薄荷玫瑰香水电商图](/public/images/cases/case519.jpg)
-
-> 100%完整保留上传的原图香水瓶的全部原始外观细节，瓶身造型、薄荷绿玻璃质感、木纹球形瓶盖、原有标签文字完全不做任何修改；瓶身环绕米色织带，周围簇拥薄荷绿玫瑰和浅绿色植物，冷调渐变浅留白背景，冷调逆光柔焦光影，低饱和度冷清高级色调，景深虚化突出香水主体，超写实C4D质感，轻奢高级ins风，适配竖版电商详情页，2K高清

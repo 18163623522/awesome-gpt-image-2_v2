@@ -1,9 +1,0 @@
-Title: 一次多编辑同时保留细节
-Author: @ComfyUI (https://x.com/ComfyUI)
-Source: https://x.com/ComfyUI/status/2002102578205863987
-Link: https://aiart.pics/prompt/multiple-edits-at-once-while-preserving-details
-============================================================
-
-Multiple Edits at Once while Preserving Details
-Prompt
-> Replace the text "Internet" with "GPT-IMAGE-1.5". Replace the Japanese sub header with "Now Available on Comfy Cloud" in Japanese text. Do not interpret the words \'Comfy Cloud\', this is the name of a product. Replace the "\'83" with "\'25". Replace the screen with a node based interface. The boy is facing the viewer with a thumbs up.

@@ -1,9 +1,0 @@
-Title: 暗色调电影式肖像
-Author: @Harboriis (https://x.com/harboriis)
-Source: https://x.com/Harboris_27/status/2001877289303490702
-Link: https://aiart.pics/prompt/moody-cinematic-portrait
-============================================================
-
-GPT Image 1.5
-Prompt:
-moody cinematic portrait of a man in dark jacket, front facing but slightly turned, minimal expression, dark teal and cyan studio lighting, smooth gradient blue background fading into shadows, creative double exposure ghosted silhouette behind main face, soft haze, film look, subtle grain, high contrast on facial features, poster design composition, empty space for typography, no text, no watermark

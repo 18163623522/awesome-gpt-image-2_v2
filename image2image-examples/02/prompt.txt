@@ -1,6 +1,0 @@
-No.: 02
-Original Case: Case 228
-Title: Perfectly Matched Advertising Poster
-Category: Posters & Typography
----
-Generate an advertising image that perfectly matches this image. Include a rich amount of information.
