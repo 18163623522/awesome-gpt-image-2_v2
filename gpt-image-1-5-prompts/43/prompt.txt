@@ -1,0 +1,66 @@
+Title: 金色时分奢华时尚编辑
+Author: @KeorUnreal (https://x.com/KeorUnreal)
+Source: https://x.com/KeorUnreal/status/2005752359696126367
+Link: https://aiart.pics/prompt/golden-hour-luxury-high-fashion-editorial
+============================================================
+
+json
+Let's go to sleep with a bit of charm and beauty!😍 GN my friends!✨💫
+GPT Image 1.5
+Prompt:
+{
+"project_title": "High-Fashion Editorial: Golden Hour Luxury",
+"composition_settings": {
+"camera_angle": "Low-angle",
+"shot_type": "Waist-up / Tight framing",
+"composition_style": "Powerful, no negative space, full-frame immersion"
+},
+"subject_details": {
+"model_identity": {
+"preservation_rules": [
+"Maintain reference facial features",
+"Maintain reference hair color",
+"Maintain reference eye color"
+],
+"complexion": "Ultra-polished skin texture, flawless finish"
+},
+"posing_and_attitude": {
+"posture": "Seated elegantly, calm yet dominant, effortless grace",
+"hand_position": "Single hand raised softly near the face, controlled editorial gesture",
+"vibe": "Refined sensuality, fashion-film attitude"
+},
+"styling": {
+"wardrobe": {
+"garment": "Structured corset dress",
+"material": "Luxurious fabric with visible couture tension",
+"silhouette": "Sculpted, high-precision tailoring"
+},
+"hair_design": {
+"style": "Long, voluminous, deliberately loose",
+"detail": "Soft strands falling across the face for intimacy"
+},
+"makeup": {
+"lashes": "Voluminous, dramatic, editorial-grade",
+"overall": "High-end studio polish"
+}
+}
+},
+"environment_and_props": {
+"location": "Minimalist high-end studio",
+"furniture": "Sculptural black fluffy teddy-style armchair",
+"background": "Luxury room with van Gogh\'s painting backdrop integrated with lighting"
+},
+"lighting_and_aesthetics": {
+"primary_source": "Golden hour studio lighting",
+"lighting_style": "Cinematic Tom Ford-inspired",
+"tonality": {
+"palette": "Warm sunlit tones, rich highlights",
+"shadows": "Gentle, soft-focus transitions",
+"atmosphere": "Soft glow, expensive and timeless mood"
+},
+"post_processing": {
+"texture": "Subtle film grain",
+"clarity": "Ultra-sharp focal points on subject"
+}
+}
+}

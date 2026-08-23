@@ -1,0 +1,161 @@
+Title: 聆听中的她
+Author: @ShaHid WaNii (https://x.com/meng_dagg695)
+Source: https://x.com/meng_dagg695/status/2003301773243744415
+Link: https://aiart.pics/prompt/listening-lady
+============================================================
+
+json
+She’s not posing. She’s listening.
+Created by using ChatGPT image 1.5
+Prompt :-
+{
+  "canvas": {
+    "width": 1200,
+    "height": 1200,
+    "aspect_ratio": "1:1",
+    "orientation": "square"
+  },
+  "scene": {
+    "setting": "vintage indoor living room",
+    "era_style": "1970s retro aesthetic",
+    "mood": "warm, intimate, cinematic, calm",
+    "lighting": {
+      "type": "soft ambient indoor lighting",
+      "source": "floor lamp on left side",
+      "color_temperature": "warm tungsten",
+      "shadows": "soft, natural falloff",
+      "contrast": "medium"
+    }
+  },
+  "background": {
+    "wall": {
+      "material": "wood paneling",
+      "color": "warm brown",
+      "pattern": "vertical wooden panels",
+      "finish": "matte, slightly aged"
+    },
+    "lamp": {
+      "type": "vintage floor lamp",
+      "shade": "cream fabric lampshade",
+      "details": "scalloped edge with fringe trim",
+      "pole": "dark wooden stand",
+      "position": "left side of frame"
+    },
+    "plant": {
+      "type": "small leafy indoor plant",
+      "container": "ceramic pot",
+      "color": "earthy tones",
+      "placement": "left background near lamp"
+    }
+  },
+  "furniture": {
+    "sofa": {
+      "type": "vintage upholstered couch",
+      "fabric": "woven patterned textile",
+      "colors": [
+        "beige",
+        "brown",
+        "muted green",
+        "rust"
+      ],
+      "style": "retro geometric pattern"
+    },
+    "pillows": [
+      {
+        "material": "velvet",
+        "color": "deep red",
+        "texture": "soft, plush"
+      },
+      {
+        "material": "faux fur",
+        "color": "off-white",
+        "texture": "fluffy"
+      }
+    ]
+  },
+  "subject": {
+    "type": "human",
+    "gender": "female",
+    "age_range": "early to mid 20s",
+    "ethnicity": "light skin tone",
+    "pose": {
+      "position": "reclining on sofa",
+      "body_orientation": "slightly angled toward camera",
+      "arm_position": "one arm resting on sofa back, other near waist",
+      "posture": "relaxed, confident"
+    },
+    "expression": {
+      "facial": "neutral to soft sultry",
+      "eyes": "open, direct gaze toward camera",
+      "mouth": "slightly parted lips"
+    }
+  },
+  "appearance": {
+    "hair": {
+      "color": "dark brown",
+      "length": "long",
+      "style": "loose, natural waves",
+      "parting": "center part"
+    },
+    "skin": {
+      "texture": "natural, realistic",
+      "details": "subtle freckles and pores visible"
+    }
+  },
+  "clothing": {
+    "dress": {
+      "type": "satin slip dress",
+      "color": "deep burgundy / wine red",
+      "material": "silky satin fabric",
+      "finish": "soft sheen",
+      "neckline": "low-cut V neckline",
+      "straps": "thin spaghetti straps",
+      "fit": "loose, draped"
+    }
+  },
+  "composition": {
+    "framing": "medium portrait",
+    "camera_angle": "eye-level",
+    "depth_of_field": "moderate, subject in focus with slightly soft background",
+    "focus_point": "subject face and upper torso",
+    "balance": "subject centered slightly right, lamp balancing left"
+  },
+  "color_palette": {
+    "dominant_colors": [
+      "warm brown",
+      "burgundy",
+      "beige",
+      "cream"
+    ],
+    "accent_colors": [
+      "deep red",
+      "off-white",
+      "muted green"
+    ],
+    "overall_tone": "warm, earthy"
+  },
+  "image_quality": {
+    "resolution": "high detail",
+    "style": "photorealistic",
+    "noise": "minimal",
+    "sharpness": "clear facial and fabric textures"
+  },
+  "post_processing": {
+    "color_grading": "warm cinematic grading",
+    "contrast": "slightly lifted blacks",
+    "highlights": "soft",
+    "saturation": "natural, not oversaturated"
+  },
+  "negative_prompt": [
+    "cartoon",
+    "anime",
+    "illustration",
+    "overexposed",
+    "harsh shadows",
+    "blurred face",
+    "distorted anatomy",
+    "extra limbs",
+    "plastic skin",
+    "low resolution"
+  ]
+}

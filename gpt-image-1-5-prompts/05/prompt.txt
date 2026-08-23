@@ -1,0 +1,9 @@
+Title: 清澈碧水中的参考图像
+Author: @1LittleCoder💻 (https://x.com/1littlecoder)
+Source: https://x.com/1littlecoder/status/2001672903792955756
+Link: https://aiart.pics/prompt/reference-image-in-crystal-clear-turquoise-water
+============================================================
+
+GPT-Image-1.5 is good for Product Photoshoots. There's something about its consistency I like. Imho, it respects the original image much more than Mr. NanoBanana Pro!
+Prompt:
+[Reference Image] fully submerged in crystal-clear, turquoise water, captured in ultra-high-resolution underwater photography. Sunlight penetrates the surface above, creating intricate caustic light patterns that ripple and dance across the subject and surrounding water. The scene conveys pristine clarity with zero particulate matter, emphasizing a sense of suspended weightlessness and serene motion. Fine details are frozen using high-speed capture, with subtle bubbles and flowing fabric or hair enhancing the feeling of aquatic elegance. The overall aesthetic is clean, refreshing, and ethereal, with soft natural color grading, high dynamic range, and cinematic realism.

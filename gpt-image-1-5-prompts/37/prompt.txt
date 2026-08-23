@@ -1,0 +1,9 @@
+Title: 男性单人静物肖像
+Author: @john_my07 (https://x.com/john_my07)
+Source: https://x.com/john_my07/status/2001508911380414888
+Link: https://aiart.pics/prompt/male-studio-portrait
+============================================================
+
+GPT Image 1.5 (left) vs Gemini Nano Banana Pro (right)
+Prompt;
+Create a monochrome studio portrait of a man. Use minimal lighting with soft falloff so the focus stays entirely on him, with subtle gradients and deep shadows shaping his face. The composition should be a tight-medium shot against a clean, distraction-free background. He’s dressed in a casual, stylish outfit—like a simple tee or sweatshirt with light texture that works well in black and white. The overall mood should feel calm and confident, with a pleasing, balanced vibe. Render it in high-contrast black and white with crisp details, smooth tones, and a subtle cinematic depth.

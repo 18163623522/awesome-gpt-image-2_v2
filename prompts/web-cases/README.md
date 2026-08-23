@@ -7,14 +7,14 @@ A comprehensive collection of **576 GPT Image 2 prompts** sourced from [gpt-imag
 | Category | Prompts | File |
 |----------|---------|------|
 | UI & Interfaces | 74 | [ui-interfaces.md](ui-interfaces.md) |
-| Posters & Typography | 101 | [posters-typography.md](posters-typography.md) |
-| Photography & Realism | 108 | [photography-realism.md](photography-realism.md) |
+| Posters & Typography | 100 | [posters-typography.md](posters-typography.md) |
+| Photography & Realism | 104 | [photography-realism.md](photography-realism.md) |
 | Charts & Infographics | 52 | [charts-infographics.md](charts-infographics.md) |
-| Illustration & Art | 63 | [illustration-art.md](illustration-art.md) |
-| Products & E-commerce | 38 | [products-ecommerce.md](products-ecommerce.md) |
+| Illustration & Art | 64 | [illustration-art.md](illustration-art.md) |
+| Products & E-commerce | 40 | [products-ecommerce.md](products-ecommerce.md) |
 | Other Use Cases | 28 | [other.md](other.md) |
-| Brand & Logos | 26 | [brand-logos.md](brand-logos.md) |
-| Characters & People | 26 | [characters-people.md](characters-people.md) |
+| Brand & Logos | 27 | [brand-logos.md](brand-logos.md) |
+| Characters & People | 27 | [characters-people.md](characters-people.md) |
 | Scenes & Storytelling | 21 | [scenes-storytelling.md](scenes-storytelling.md) |
 | History & Classical Themes | 16 | [history-classical.md](history-classical.md) |
 | Architecture & Spaces | 13 | [architecture.md](architecture.md) |

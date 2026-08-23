@@ -1,0 +1,13 @@
+Title: GN好友！✨💫 睡个好觉或玩得开心！😴🥂
+Author: @KeorUnreal (https://x.com/KeorUnreal)
+Source: https://x.com/KeorUnreal/status/2002493715429175745
+Link: https://aiart.pics/prompt/gn-friends-sleep-well-or-have-fun
+============================================================
+
+json
+GN my friends!✨💫 sleep well or have fun!😴🥂 inspired from my friend josh prompt!🙌🏻
+GPT Image 1.5
+Prompt:
+{
+  "prompt": "Photorealistic full-body portrait of a stunning young woman with sun-kissed olive skin, long wavy dark brown hair cascading over her shoulders, large expressive dark eyes with bold winged eyeliner, long lashes, and glossy deep nude-pink lips in a confident, slightly parted pout. She has a delicate gold necklace with a small pendant resting in her deep cleavage. She wears an oversized loose-fit brown T-shirt dress with short sleeves, the hem ending high on her thighs to reveal her toned legs, the fabric draping softly over her curves. She is barefoot with perfectly pedicured toes. Pose: sitting on a wooden bench in an urban industrial setting, legs crossed elegantly, one arm resting on the back of the bench, the other relaxed by her side, head tilted slightly with a seductive gaze directly at the camera. She wears tall black lace-up platform heels with open toes and multiple straps wrapping around her ankles and calves. Background: minimalist concrete interior with large windows letting in soft natural daylight, creating warm golden highlights and subtle shadows on her skin and the textured fabric of her dress. Ultra-detailed skin texture with realistic sun-kissed glow, intricate lace-up boot details, sharp focus on subject, cinematic depth of field with gentle background blur, high dynamic range, 8K resolution, photorealism, masterpiece quality."
+}

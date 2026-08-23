@@ -1,0 +1,63 @@
+Title: 雨夜高速逃逸街景自拍
+Author: @ChillaiKalan__ (https://x.com/ChillaiKalan__)
+Source: https://x.com/ChillaiKalan__/status/2002465016998735930
+Link: https://aiart.pics/prompt/cinematic-night-street-selfie-high-speed-escape
+============================================================
+
+json
+Higgsfield powered by GPT Image 1.5 enhances even the busiest scenes.
+Everything stays clean, sharp and consistent.
+Prompt:
+"Ultra-realistic cinematic night street selfie with a confident, stylish person in the reference photo leaning out of a car window in a rainy city during a high-speed escape.",
+"pose": {
+"arm": "extended toward the camera holding the phone",
+"head": "slightly tilted back",
+"attitude": "fearless, playful"
+},
+"face\_and\_skin": {
+"identity": "100% preserved, no changes to facial structure, proportions, or unique features",
+"skin": "smooth, luminous with glossy streetlight highlights",
+"cheekbones": "softly sculpted",
+"lips": "glossy,",
+"eyes": "expressive, partially hidden behind narrow black rectangular sunglasses",
+"texture": "realistic, natural skin texture, visible pores, reflections"
+},
+"hair": {
+"style": "long, flowing, wind-blown by speed and night air",
+"volume": "natural"
+},
+"outfit\_and\_details": {
+"coat": "bold leopard-print faux-fur draped luxuriously over the shoulders",
+"manicure": "glossy red",
+"jewelry": "minimal silver rings",
+"glass": "elegant martini glass with a clear cocktail and green olives, catching sharp reflections"
+},
+"environment": {
+"setting": "wet asphalt night city street",
+"motion": "intense, high-speed, with a police car chasing behind",
+"lights": {
+"headlights": "blurred, aggressive light streaks",
+"street\_lights": "golden sodium street lamps creating large dramatic bokeh circles",
+"police\_lights": "blue and red siren flashes creating reflections"
+},
+"mood": "rebellious, playful, glamorous chaos; adrenaline-fueled nightlife energy",
+"aesthetic": "fashion-editorial crime style"
+},
+"lighting": {
+"contrast": "high, dynamic mix of warm sodium streetlights, cold blue police lights, and red siren flashes",
+"reflections": "glossy on skin, glass, car body, and rain-soaked street"
+},
+"camera\_and\_style": {
+"perspective": "wide-angle smartphone selfie",
+"depth\_of\_field": "shallow",
+"background": "strong motion blur with light streaks",
+"detail": "ultra-high, realistic film grain",
+"color\_grading": "cinematic",
+"vibe": "modern luxury runaway"
+},
+"body": {
+": {
+"size": "slightly larger and elongated"
+}
+},
+"ratio": "9:16"

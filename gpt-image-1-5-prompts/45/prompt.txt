@@ -1,0 +1,77 @@
+Title: 温馨卧室自拍
+Author: @KeorUnreal (https://x.com/KeorUnreal)
+Source: https://x.com/KeorUnreal/status/2002130160653386113
+Link: https://aiart.pics/prompt/cozy-bedroom-selfie
+============================================================
+
+json
+GN my friends, sweet dreams!💫
+GPT Image 1.5
+Prompt:
+{
+"scene": {
+"type": "bedroom_interior",
+"lighting": "natural_daylight",
+"atmosphere": "casual, cozy, domestic"
+},
+"subject": {
+"pose": {
+"position": "lying_prone_on_bed",
+"orientation": "facing_camera",
+"legs": "knees_bent_upwards, ankles_crossed",
+"arms": "left_arm_extended_for_selfie",
+"head": "resting_on_pillow"
+},
+"appearance": {
+"hair": "long, straight, pink",
+"expression": "gentle_smile, direct_eye_contact",
+"complexion": "fair, rosy_cheeks"
+},
+"attire": {
+"top": {
+"item": "tank_top",
+"color": "light_green",
+"texture": "ribbed",
+"style": "spaghetti_straps"
+},
+"bottom": {
+"item": "gym shorts",
+"color": "light_green",
+"details": "ruffled_hem, scrunched_texture"
+},
+"accessories": {
+"feet": "white_crew_socks"
+}
+}
+},
+"environment": {
+"bedding": {
+"sheets": "white, rumpled",
+"pillows": "white_with_floral_pattern",
+"duvet": "white, puffy"
+},
+"background_elements": {
+"windows": {
+"quantity": 2,
+"features": "white_frames, horizontal_blinds"
+},
+"furniture": {
+"side_furniture": {
+"side_table": {
+"location": "left_side",
+"visible_items": [
+"skincare_products",
+"pink_mug",
+"small_potted_plant",
+"tissues"
+]
+}
+}
+}
+},
+"composition": {
+"angle": "high_angle_selfie",
+"framing": "medium_shot",
+"focus": "sharp_subject, soft_background"
+}
+}

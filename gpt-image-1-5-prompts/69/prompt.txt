@@ -1,0 +1,12 @@
+Title: GPT Image 1.5 实力测试
+Author: @SSSS_CRYPTOMAN (https://x.com/SSSS_CRYPTOMAN)
+Source: https://x.com/SSSS_CRYPTOMAN/status/2001074969397350640
+Link: https://aiart.pics/prompt/gpt-image-1-5-performance-test
+============================================================
+
+GPT Image 1.5の実力テスト
+Nano Banana Pro用に作ったプロンプトで画像編集してみた
+これかなり良いぞ…！！？
+日本語も使えるレベル、ポン出しで完成度高い絵が出てくる感じ
+スタンプのクオリティは🍌より良い！
+ただ、参照キャラの再現度とプロンプトへの忠実度はNano Banana Proの方が上ですね

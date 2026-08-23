@@ -941,18 +941,26 @@ Looking for even more prompts? Browse the **[Web Collection](prompts/web-cases/R
 | Category | Prompts |
 |----------|---------|
 | UI & Interfaces | 74 |
-| Posters & Typography | 101 |
-| Photography & Realism | 108 |
+| Posters & Typography | 100 |
+| Photography & Realism | 104 |
 | Charts & Infographics | 52 |
-| Illustration & Art | 63 |
-| Products & E-commerce | 38 |
+| Illustration & Art | 64 |
+| Products & E-commerce | 40 |
 | Other Use Cases | 28 |
-| Brand & Logos | 26 |
-| Characters & People | 26 |
+| Brand & Logos | 27 |
+| Characters & People | 27 |
 | Scenes & Storytelling | 21 |
 | History & Classical Themes | 16 |
 | Architecture & Spaces | 13 |
 | Documents & Publishing | 10 |
 
 All prompts include full text, source attribution, and example images.
+
+### Community Collections & Resources
+
+- **[Chinese Gallery Docs](docs/gallery.md)** — 526 cases documented with Chinese descriptions, synced from [freestylefly/awesome-gpt-image-2](https://github.com/freestylefly/awesome-gpt-image-2): [Part 1 (cases 1-165)](docs/gallery-part-1.md) / [Part 2 (cases 166-526)](docs/gallery-part-2.md)
+- **[Prompt Templates Guide](docs/templates.md)** — 21 industrial-grade prompt templates with anti-pitfall notes (Chinese)
+- **[GPT Image 1.5 Prompts](gpt-image-1-5-prompts/README.md)** — 77 prompts with example images extracted from [awesome-aiart-pics-prompts](https://github.com/Jermic/awesome-aiart-pics-prompts)
+- **[Image-to-Image Examples](image2image-examples/README.md)** — 10 image-to-image prompts with example outputs
+- **[Style Library](data/style-library.json)** — style preset data used by the web gallery
 

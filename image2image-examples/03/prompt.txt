@@ -1,0 +1,10 @@
+No.: 03
+Original Case: Case 297
+Title: Handwritten Recipe to Magazine-Quality Spread
+Category: Other Use Cases
+---
+Handwritten Recipe → Professional Recipe Page
+
+Upload a messy handwritten family recipe; the model will search for accurate modern measurements and nutrition information, then generate a polished, magazine-style double-page spread with step-by-step flat lays, perfect ingredient labels, and calorie breakdowns.
+
+[INSERT_RECIPE_LINK]

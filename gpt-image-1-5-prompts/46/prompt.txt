@@ -1,0 +1,17 @@
+Title: 90年代电影特有的颓废氛围与质感的人物重构
+Author: @ふうこい (https://x.com/koishita_dan)
+Source: https://x.com/koishita_dan/status/2002067995250864304
+Link: https://aiart.pics/prompt/90s-cinema-character-reconstruction
+============================================================
+
+90年代映画特有の退廃的なムードと質感を保ったまま、
+人物だけをリアル寄りに再構築。
+「雰囲気を残す」ことに特化した生成ができるのは、
+映像・写真好きにはかなり刺さる。
+GPT Image 1.5 is now available on Higgsfield.
+Higgsfield’s GPT Image focuses on structure,
+diagrams, and clear reasoning — not style.
+Upload notes, sketches, or diagrams,
+write a structured prompt,
+and get clean, accurate visuals.
+#GPTImage

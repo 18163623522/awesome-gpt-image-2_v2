@@ -1,0 +1,8 @@
+Title: 基于上传照片的干净现代肖像网格
+Author: @Camille_1982_fr (https://x.com/1982_camille)
+Source: https://x.com/1982_camille/status/2001721453075644763
+Link: https://aiart.pics/prompt/clean-modern-portrait-grid-uploaded-photo
+============================================================
+
+Create your image with different expressions in chatGPT via GPT-image 1.5 using the prompt
+Starting with the uploaded photo as a base reference, create a clean and modern portrait grid featuring the same person with several different facial expressions and moods. Arrange the images in a neat 3×3 layout with rounded corners and soft pastel backgrounds. Each portrait should retain the same facial features, hairstyle, and realism, changing only the expression and subtle style. Include expressions such as: natural smile, joyful laugh, calm with eyes closed, neutral and serious gaze, pensive pose with hand on chin, confident and composed expression, sad or disappointed mood, mischievous pout, and surprised reaction with wide eyes. Use soft studio lighting, highly detailed skin texture, shallow depth of field, minimal variations in wardrobe, consistent color palette, ultra-realistic editorial portrait style, high resolution, and clean aesthetics.

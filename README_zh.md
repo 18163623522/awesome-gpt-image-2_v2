@@ -938,20 +938,28 @@
 | 分类 | 提示词数量 |
 |------|-----------|
 | UI & 界面设计 | 74 |
-| 海报与排版 | 101 |
-| 摄影与写实 | 108 |
+| 海报与排版 | 100 |
+| 摄影与写实 | 104 |
 | 图表与信息图 | 52 |
-| 插画与艺术 | 63 |
-| 产品与电商 | 38 |
+| 插画与艺术 | 64 |
+| 产品与电商 | 40 |
 | 其他用例 | 28 |
-| 品牌与 Logo | 26 |
-| 角色与人物 | 26 |
+| 品牌与 Logo | 27 |
+| 角色与人物 | 27 |
 | 场景与叙事 | 21 |
 | 历史与古典主题 | 16 |
 | 建筑与空间 | 13 |
 | 文档与出版 | 10 |
 
 所有提示词均包含完整文本、来源标注和示例图片。
+
+### 社区合集与资源
+
+- **[中文画廊文档](docs/gallery.md)** — 526 个案例的中文图文文档,同步自 [freestylefly/awesome-gpt-image-2](https://github.com/freestylefly/awesome-gpt-image-2):[上册(案例 1-165)](docs/gallery-part-1.md) / [下册(案例 166-526)](docs/gallery-part-2.md)
+- **[提示词模板指南](docs/templates.md)** — 21 套工业级提示词模板与防坑指南
+- **[GPT Image 1.5 提示词](gpt-image-1-5-prompts/README.md)** — 从 [awesome-aiart-pics-prompts](https://github.com/Jermic/awesome-aiart-pics-prompts) 提取的 77 个提示词,附示例图
+- **[图生图示例](image2image-examples/README.md)** — 10 个图生图提示词及示例输出
+- **[风格库](data/style-library.json)** — 网站画廊使用的风格预设数据
 
 ---
 

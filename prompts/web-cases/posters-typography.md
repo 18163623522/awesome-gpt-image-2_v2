@@ -1,6 +1,6 @@
 # Posters & Typography Prompts
 
-A collection of 101 GPT Image 2 prompts for posters & typography.
+A collection of 100 GPT Image 2 prompts for posters & typography.
 
 | # | Title | Image |
 |---|-------|-------|
@@ -85,10 +85,9 @@ A collection of 101 GPT Image 2 prompts for posters & typography.
 | 503 | 霓虹设计师 3D 海报 | ![霓虹设计师 3D 海报](/public/images/cases/case503.jpg) |
 | 506 | 可爱发卡图文人像海报 | ![可爱发卡图文人像海报](/public/images/cases/case506.jpg) |
 | 511 | 城市名地标排版旅行海报 | ![城市名地标排版旅行海报](/public/images/cases/case511.jpg) |
-| 518 | prompt 生成一张 9:16 竖版高级海报，主题为「端午」，但必须彻底跳出传统节日海报框架。不要做粽子、卡通龙舟、红金喜庆、祥云边框、安康祝福模板，也不要做 | ![prompt 生成一张 9:16 竖版高级海报，主题为「端午」，但必须彻底跳出传统节日海报框架。不要做粽子、卡通龙舟、红金喜庆、祥云边框、安康祝福模板，也不要做](/public/images/cases/case518.jpg) |
-| 520 | 通用提示词： 请生成一张【高端地产超宽横幅广告】，单张图片，不要拼图，不要多宫格。 | ![通用提示词： 请生成一张【高端地产超宽横幅广告】，单张图片，不要拼图，不要多宫格。](/public/images/cases/case520.jpg) |
-| 525 | { "prompt": "Professional luxury birthday poster, 3:4 ratio. The entire frame is | ![{ "prompt": "Professional luxury birthday poster, 3:4 ratio. The entire frame is](/public/images/cases/case525.jpg) |
-| 526 | Ultra-realistic sports advertising poster featuring a young Argentine football s | ![Ultra-realistic sports advertising poster featuring a young Argentine football s](/public/images/cases/case526.jpg) |
+| 515 | Guadalajara 复古电影旅行海报 | ![Guadalajara 复古电影旅行海报](/public/images/cases/case515.jpg) |
+| 521 | 青花敦煌刺绣四拼风格海报 | ![青花敦煌刺绣四拼风格海报](/public/images/cases/case521.jpg) |
+| 526 | 体积激光黑场海报 | ![体积激光黑场海报](/public/images/cases/case526.jpg) |
 | 536 | Ultra-realistic Cristiano Ronaldo portrait in Portugal national team jersey, num | ![Ultra-realistic Cristiano Ronaldo portrait in Portugal national team jersey, num](/public/images/cases/case536.jpg) |
 | 540 | Whimsical travel poster illustration of a beautiful European alpine town, handcr | ![Whimsical travel poster illustration of a beautiful European alpine town, handcr](/public/images/cases/case540.jpg) |
 | 543 | FIFA WORLD CUP 2026 – CELEBRITY NATIONAL TEAM POSTER | ![FIFA WORLD CUP 2026 – CELEBRITY NATIONAL TEAM POSTER](/public/images/cases/case543.jpg) |
@@ -2359,64 +2358,44 @@ A collection of 101 GPT Image 2 prompts for posters & typography.
 > Ensure every landmark, architectural style, vehicle, sign, and cultural element is accurate to the chosen city—avoid generic or incorrect landmarks. If desired, include a small elegant tagline beneath the city name (such as a famous nickname or slogan) in minimal typography.
 > Style: premium flat vector, minimalist travel poster, geometric illustration, editorial design, tourism branding, clean typography, high contrast, ultra-sharp lines, museum-quality print, modern graphic design, centered composition, scalable SVG aesthetic, 8K resolution.
 
-### prompt 生成一张 9:16 竖版高级海报，主题为「端午」，但必须彻底跳出传统节日海报框架。不要做粽子、卡通龙舟、红金喜庆、祥云边框、安康祝福模板，也不要做
+### Guadalajara 复古电影旅行海报
 
-**Source:** @hx831126 - [https://x.com/hx831126/status/2067675233700757774](https://x.com/hx831126/status/2067675233700757774)
+**Source:** @MiMundoConIA - [https://x.com/MiMundoConIA/status/2077046470335938826](https://x.com/MiMundoConIA/status/2077046470335938826)
 
-![prompt 生成一张 9:16 竖版高级海报，主题为「端午」，但必须彻底跳出传统节日海报框架。不要做粽子、卡通龙舟、红金喜庆、祥云边框、安康祝福模板，也不要做](/public/images/cases/case518.jpg)
+![Guadalajara 复古电影旅行海报](/public/images/cases/case515.jpg)
 
-> prompt 
-> 
-> 生成一张 9:16 竖版高级海报，主题为「端午」，但必须彻底跳出传统节日海报框架。不要做粽子、卡通龙舟、红金喜庆、祥云边框、安康祝福模板，也不要做成过度概念化的设计师海报。整张图要像 Pinterest 高收藏视觉、年轻人会一眼喜欢并愿意保存的夏日情绪海报。核心表达是：端午不是热闹过节，而是夏天来临时，人从喧闹中慢下来、重新找回呼吸和节奏。画面以清爽、松弛、时尚、安静、自然为气质主轴，营造一种夏天、微风、水面反光、植物生长、阳光洒落、空气流动的感觉。可以出现一位年轻亚洲人物，穿着白衬衫或浅色亚麻夏装，作为情绪锚点，人物不必突出五官，而要突出整体氛围与生活方式感。场景可结合极简水边空间、现代东方露台、白墙、窗边、自然光影、绿色植物等元素。端午元素必须被高级转译：艾草 / 菖蒲转化为修长的绿色植物符号，龙舟转化为流动线条、节奏轨迹和排列感，水作为核心视觉材质以清透反光、水波纹、镜面感流动高光呈现，粽叶转化为绿色叶形、折叠结构或布料包裹感，但不要直接画粽子。整体构图要留白充足、呼吸感强、像时尚杂志封面与生活方式 campaign 视觉。色彩以雾白、米白、浅灰、苔绿色、鼠尾草绿、水蓝、柔和青绿色为主，少量深墨绿或深靛色压住画面，可极少量点缀浅金或柔和橘红。质感上要有自然光、轻微胶片颗粒、印刷感、轻海报纸张质地，避免过度光滑的 AI 感。文字排版极简高级，中文主标题「端午」，可搭配副文案「把夏天，过得慢一点」或英文「Slow into summer.」，整体像高端品牌海报、Pinterest 高赞图片、小红书高审美封面。
-
-### 通用提示词： 请生成一张【高端地产超宽横幅广告】，单张图片，不要拼图，不要多宫格。
-
-**Source:** @MrLarus - [https://x.com/MrLarus/status/2067562275666334068](https://x.com/MrLarus/status/2067562275666334068)
-
-![通用提示词： 请生成一张【高端地产超宽横幅广告】，单张图片，不要拼图，不要多宫格。](/public/images/cases/case520.jpg)
-
-> 通用提示词：
-> 
-> 请生成一张【高端地产超宽横幅广告】，单张图片，不要拼图，不要多宫格。
-> 
-> 尺寸：横版 3:1，约 2109×745 像素，适合楼盘围挡、户外大牌、售楼部物料、地产项目价值点海报。
-> 
-> 【项目名称】：云栖天境
-> 【主标题】：填写一句高级地产广告标题
-> 【副标题】：填写一句项目价值说明
-> 【核心卖点】：城市封面 / 湖居公园 / 教育配套 / 户型舒居 / 商业配套 / 山景资源
-> 【主视觉】：建筑立面 / 城市天际线 / 湖面公园 / 校园操场 / 室内样板间 / 社区景观
-> 【主色调】：米白、雾蓝、浅灰、淡青绿、香槟金，低饱和高级配色
-> 
-> 整体风格为高端地产广告、商业提案 KV、现代东方极简、轻奢克制、大面积留白、低饱和色彩、真实商业物料质感。
-> 
-> 画面采用超宽横向构图，主标题作为第一视觉中心，主视觉场景作为第二视觉中心，底部保留一条细长信息栏，用于放置项目名、面积段、热线电话、区域信息等。
-> 
-> 主视觉不要简单贴图，要有设计感：可以通过半透明玻璃面、弧形空间窗口、流体曲线、纸张折页、浅金细线、极淡网格、建筑线稿、等高线纹理、水波线条等元素，把建筑、景观或空间包装成高端地产提案视觉。
-> 
-> 文字排版要克制高级：中文大标题疏朗，副标题细小，英文小字点缀，信息栏轻薄，不要文字堆满。整体像真实地产围挡广告 / 售楼部主视觉 / 户外横幅 KV。
-> 
-> 避免：普通促销海报、低端楼盘传单、红金土豪风、杂乱拼贴、信息过多、过度饱和、廉价模板感、图片生硬贴上去、文字拥挤、卡通感、低清晰度。
-
-### { "prompt": "Professional luxury birthday poster, 3:4 ratio. The entire frame is
-
-**Source:** @Fujimoto_hina - [https://x.com/Fujimoto_hina/status/2065805957280723259](https://x.com/Fujimoto_hina/status/2065805957280723259)
-
-![{ "prompt": "Professional luxury birthday poster, 3:4 ratio. The entire frame is](/public/images/cases/case525.jpg)
-
-> {
->   "prompt": "Professional luxury birthday poster, 3:4 ratio. The entire frame is filled with high-quality snow-white textured paper walls. A large number '04' is precisely carved into the wall, featuring visible depth, realistic inner shadows, elegant volumetric details, and premium architectural craftsmanship. Inside the room: dark blue, pastel blue, and white balloons, delicate white flowers, luxurious bouquet arrangements, and an exclusive first-class celebration aesthetic. The happy man from the attached photo is sitting casually on the lower curve of the number '04', with one leg bent and the other hanging naturally, smiling radiantly and looking slightly upward. His face, shoulder, one arm, and one leg extend beyond the carved number, creating a realistic 3D pop-up window effect. Warm cinematic sunlight enters from one side, with soft edge lighting, photorealistic skin texture, premium studio photography, ultra-realistic details, crystal-clear focus, and luxurious editorial-quality rendering. Elegant wall inscriptions read: 'AEGON AI', 'CHAPTER 28', and '365 MORE DAYS OF MIRACLES'. Pure minimalist composition, luxury magazine-cover aesthetics, world-class art direction, realistic shadows, natural color grading, no tree shadows, no artificial lighting effects, no AI artifacts, premium birthday campaign photography, masterpiece quality, ultra-detailed, hyper-realistic, luxury celebration atmosphere."
+> @Crea una imagen {
+>   "style": "Cinematic Vintage Movie Poster — Guadalajara, Mexico",
+>   "target_tool": "DALL-E 3 (ChatGPT)",
+>   "prompt": "Generate a vertical portrait-format movie poster image, taller than wide in a 2:3 aspect ratio. The image is a cinematic vintage travel movie poster for Guadalajara, Mexico, rendered with the visual texture of an aged large-format film poster: heavy 35mm film grain throughout especially in the shadow areas, slightly faded and warm-shifted color tones as if printed on aged matte paper stock, a subtle halftone dot pattern visible in the midtones, and a very slight ink bleed at high-contrast edges giving it an authentic vintage printed poster feel. Foreground: a single dark silhouette of a lone mariachi musician standing still at the center-bottom of the frame, rendered as a pure clean dark silhouette with no facial features visible — traditional wide-brim charro sombrero, fitted traje de charro suit outline, holding a guitarrón — casting a long warm shadow across the honey-colored cantera stone paving of Plaza de la Liberación below, with colorful papel picado banners in red, orange, green and yellow cut tissue paper strung in loose diagonal lines overhead from building to building, swaying slightly, framing the upper composition, no people other than the single silhouetted figure, no vehicles, no modern objects. Midground: the grand honey-amber cantera stone neoclassical facade of the Teatro Degollado rising directly behind the silhouette, its ornate columned portico and triangular pediment warmly lit by the low golden-hour sun hitting from the left, long dramatic shadows stretching across the stone paving, the warm amber volcanic stone glowing intensely in the golden light. Background: the twin neo-Gothic spires of the Catedral Metropolitana de Guadalajara rising tall into the upper frame against a vast deep cerulean blue sky transitioning to burnt amber and deep orange near the horizon, a single scattered cloud catching violet and gold light from below, the cathedral facade in warm honey stone matching the Teatro Degollado's palette. Color grade: saturated warm amber and golden honey tones dominating the stone architecture, deep cobalt blue in the upper sky, rich burnt orange near the horizon, faded warm sepia in the shadow areas consistent with a vintage printed poster. At the very top of the image, centered above the spires, render the single word GUADALAJARA in bold condensed uppercase display serif letters in warm cream-gold with a faint dark drop shadow, leaving clear sky negative space for the title. No modern buildings, no cars, no utility wires, no people other than the single dark silhouette visible anywhere in the scene.",
+>   "target": "🎯 Target: DALL-E 3 (ChatGPT) — 💡 Foreground/midground/background separation places Teatro Degollado and the Cathedral in distinct spatial layers, the mariachi silhouette is specified as a featureless outline to eliminate aberration risk, and vintage print texture is described visually rather than as a style label."
 > }
 
-### Ultra-realistic sports advertising poster featuring a young Argentine football s
+### 青花敦煌刺绣四拼风格海报
 
-**Source:** @Fujimoto_hina - [https://x.com/Fujimoto_hina/status/2066388184544756176](https://x.com/Fujimoto_hina/status/2066388184544756176)
+**Source:** @zhidawang219555 - [https://x.com/zhidawang219555/status/2090310144190218272](https://x.com/zhidawang219555/status/2090310144190218272)
 
-![Ultra-realistic sports advertising poster featuring a young Argentine football s](/public/images/cases/case526.jpg)
+![青花敦煌刺绣四拼风格海报](/public/images/cases/case521.jpg)
 
-> Ultra-realistic sports advertising poster featuring a young Argentine football supporter wearing the official Argentina national team home jersey with iconic sky blue and white vertical stripes, black number 10 on the chest, dark cargo pants, and premium modern sneakers. Subject standing casually against a massive Argentina football culture wall filled with vintage World Cup posters, legendary football imagery, Buenos Aires street football art, championship celebrations, sky-blue and white graffiti textures, and football fan culture collages. Standing slightly right of center, left leg crossed over right leg, back leaning against the wall, both hands inside pockets, relaxed shoulders, genuine confident smile, looking directly at camera. A large FIFA World Cup golden trophy positioned prominently on the left side, illuminated by dramatic golden sunlight. Massive distressed typography “ARGENTINA 26” painted across the wall in bold white and sky-blue letters, occupying one-third of the composition. Subtle World Cup 2026-inspired tournament graphics integrated into the background. Background dominated by Argentina’s sky blue, white, silver, and gold color palette. Wall decorated with championship stars, football murals, iconic stadium atmosphere, confetti particles, and premium sports branding elements. Football placed beside the subject. Dramatic diagonal sunlight beams create strong shadows across the wall and floor, producing a premium cinematic atmosphere. Ultra-realistic skin texture, detailed jersey fabric, photorealistic facial features, ultra-sharp focus, HDR photography, vibrant colors, shallow depth of field, commercial sports campaign aesthetic, magazine-cover quality, professional advertising poster, luxury FIFA-style marketing campaign, dynamic composition, realistic shadows, clean concrete floor, full-body portrait visible from head to shoes. Additional Argentina details: World Champions atmosphere, three championship stars above the crest, Buenos Aires football culture, Albiceleste heritage, sky-blue confetti particles, golden championship glow, premium football poster wall, celebration energy, legendary Argentine football legacy. CAMERA: Full-body portrait, vertical 4:5 composition, eye-level camera, 85mm lens, shallow depth of field, commercial sports poster layout. NEGATIVE PROMPT: blurry, low resolution, cartoon, anime, CGI, 3D render, plastic skin, extra fingers, bad anatomy, distorted face, cropped feet, unrealistic jersey, text errors, watermark, logo distortion, motion blur, noisy image, oversaturated colors, poor clothing texture, low detail.
+> 请将我上传的照片制作成一张竖版拼图海报，整体采用 3:4 竖版构图。画面从上到下严格四等分为四个横向区域，每个区域的高度必须精确控制为整体画面高度的25%（四层比例严格为1:1:1:1，不允许出现比例偏差），区域之间无缝衔接，不设分隔线、不留间隙，顺序为：原图→风格1→风格2→风格3。由于每层为约3:1的极扁宽幅比例，各层主体建议横向居中排布，强调左右开阔留白与呼吸感，避免元素纵向拉伸变形或贴边拥挤。四层在人物站位、场景结构、视线方向上保持连贯呼应，呈现同一画面、四种转译的整体感。风格层（第二至四层）须遵循极简原则：每层视觉元素数量压缩至最低限度，只保留1个最核心的主体符号，其余次要装饰、背景细节与陪衬元素一律省略，画面留白占比不低于60%。
 > 
-> #Lovart #LovartPartner
+> 第一层保留原始照片的主体结构、人物真实互动关系与姿态、真实质感、自然光影与原有色彩氛围，仅进行轻微高级摄影调色，呈现杂志摄影质感，不改变人物关系与构图逻辑，并可在不改变人物关系与构图逻辑的前提下自然扩展天空、地面或环境背景，使整体更具空间感与叙事感。
+> 
+> 第二层为青花瓷绘风格：借鉴青花瓷绘画技法，以钴蓝色线条与晕染在米白底上表现人物与场景，呈现瓷器纹样的疏朗雅致感。色彩以钴蓝与米白为主的单色系。避免蓝色浓淡层次过多显杂，避免图案化装饰堆砌。
+> 
+> 第三层为敦煌壁画风格：借鉴敦煌壁画矿物重彩质感，表现古朴斑驳的美感，需简化线条与色块。背景为土黄或赭石底色，带斑驳壁画肌理感。色彩以赭石、石青、朱砂、土黄为主。避免裂纹肌理过多堆砌，避免复杂纹样装饰。
+> 
+> 第四层为刺绣锦缎风格：以刺绣针脚肌理表现人物与场景轮廓，呈现丝缎光泽与针线纹理感，图案需极简概括。背景为米白或浅灰缎面底色。色彩以2至3种柔和色搭配金线点缀。避免针脚过密显繁琐，避免金线过多显浮夸。
+> 
+> 每一层需将主体与场景统一转换为对应风格，整体表达极度克制与简化，只保留最核心的一个主体符号及其基本轮廓关系，删除一切非必要的背景元素、装饰细节与陪衬物；人物之间的关键位置关系、互动方向与姿态特征需保留，但应抽象为可识别的轮廓关系，做到“元素越少、关系越清晰”。色彩均从原图中提取归纳，每层严格控制在2-4种主色以内。四个区域的高度比例须严格保持1:1:1:1（各占25%），不可出现拼接错位或比例偏差。整体避免朋克/赛博朋克风格、写实照片质感强行叠加、卡通风格、3D渲染感、商业海报感、复杂背景堆砌、元素过多或画面拥挤、相邻两层风格雷同，以及任何文字、Logo、水印或标题。
+
+### 体积激光黑场海报
+
+**Source:** @zhidawang219555 - [https://x.com/zhidawang219555/status/2090246237094310178](https://x.com/zhidawang219555/status/2090246237094310178)
+
+![体积激光黑场海报](/public/images/cases/case526.jpg)
+
+> 从全黑剧场开始，像切标本一样用六片真实体积激光把空间分层。光面必须有明确起点、透视和薄雾中的厚度，人物站在交汇点，透明道具折射出一小束异色光扇。构图沿左下至右上的对角线推进，脸只用一道克制边光揭示；标题与其中一片光面共享透视，小字留在纯黑负空间。每次替换主题与角色时，不得退化成夜店模板、HUD、霓虹城市或无物理来源的光线。
 
 ### Ultra-realistic Cristiano Ronaldo portrait in Portugal national team jersey, num
 

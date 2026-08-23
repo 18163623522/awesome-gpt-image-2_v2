@@ -1,0 +1,72 @@
+Title: 纽约时代广场雨夜对比
+Author: @Dr.duet (https://x.com/Sheldon056)
+Source: https://x.com/Sheldon056/status/2001664038707826811
+Link: https://aiart.pics/prompt/times-square-rainy-night-comparison
+============================================================
+
+json
+GPT Image 1.5 (left) vs Gemini Nano Banana Pro (right).
+Prompt:
+{
+"scene": {
+"location": "Times Square, New York",
+"time": "Rainy night",
+"composition": {
+"left_side": [
+{
+"type": "LED billboard",
+"style": "vertical",
+"text_color": "white-on-black"
+},
+{
+"type": "curved LED screen",
+"detail": "above yellow arrow for Hershey\'s store"
+}
+],
+"right_side": {
+"subject_position": "near curb",
+"traffic": {
+"vehicles": "city taxis and cars",
+"details": "brake lights forming a slow line"
+}
+}
+},
+"environment": {
+"ground": "wet asphalt",
+"reflection_colors": ["neon magenta", "icy blue"],
+"puddles": {
+"reflecting_lights": true,
+"object_details": ["scattered takeaway cups"]
+},
+"atmosphere": ["electric", "intimate"]
+}
+},
+"subject": {
+"identity": "Uploaded subject",
+"face_requirement": "Do not change facial features. Must look 1000% identical.",
+"pose": "Relaxed, facing camera",
+"holding": "Folded black umbrella by handle",
+"outfit": {
+"jacket": {
+"material": "black faux-leather varsity",
+"design": {
+"cobalt_panel": true,
+"cream_stripe": true,
+"embroidery": "Vintage script",
+"lettering": "Block OF",
+"patch": "1987 stitched on sleeve",
+"reflective_piping": true,
+"highlight_color": "purple reflection"
+}
+}
+}
+},
+"background": {
+"elements": ["cars", "scaffolding", "stacked storefront signs"]
+},
+"style": {
+"resolution": "HD",
+"aesthetic": ["realistic", "natural", "authentic"],
+"camera": "iPhone"
+}
+}

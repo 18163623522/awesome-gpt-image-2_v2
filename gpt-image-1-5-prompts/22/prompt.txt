@@ -1,0 +1,13 @@
+Title: ChatGPT AI生图模型更新：GPT-Image-1.5写真效果分析
+Author: @Dr.D (https://x.com/Dyorzheng)
+Source: https://x.com/Dyorzheng/status/2001158157125448103
+Link: https://aiart.pics/prompt/chatgpt-ai-image-generation-model-update-gpt-image-1-5-portrait-analysis
+============================================================
+
+ChatGPT 更新AI生图模型，GPT-Image-1.5 最擅长的竟然是这个？
+经过社区伙伴测试，GPT更新后做可视化完全不行，但是做写真竟然很不错！
+在一致性方面感觉超越了 Nano Banana PRO，因为大香蕉总喜欢微整形，GPT在穿着上更加大胆一些，而且适合连续的图片局部修改
+下图自左到右，分别是原图，大香蕉的修改，和GPT修改
+提示词：
+图中角色的服饰动作表情环境都更加美丽吸引人，做到你能做到的极限
+大号的美图秀秀是吗？不过既然作为PLUS会员送的新功能，畅快的给别人的头像进行强化，也算挺有意思了

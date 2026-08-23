@@ -1,0 +1,13 @@
+Title: Higgsfield AI虚拟试穿与概念视频生成
+Author: @DΞV (https://x.com/junwatu)
+Source: https://x.com/junwatu/status/2002197265763729879
+Link: https://aiart.pics/prompt/higgsfield-ai-virtual-try-on-and-concept-video-generation
+============================================================
+
+GPT Image 1.5 on Higgsfield.
+it’s really good for virtual try-on and generating concept videos.
+How?
+Simple, upload your photo and provide clothing reference images.
+Then use the prompt:
+Dress the person from the image on the left in the clothes from the reference images on the top
+Give it a try @higgsfield_ai

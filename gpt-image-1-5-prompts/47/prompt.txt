@@ -1,0 +1,17 @@
+Title: 原作の空気感を保ちつつ、キャラクターの現実寄りのビジュアルに変更
+Author: @ふうこい (https://x.com/koishita_dan)
+Source: https://x.com/koishita_dan/status/2002063444032512222
+Link: https://aiart.pics/prompt/character-visuals-altered-to-realistic-while-preserving-original-atmosphere
+============================================================
+
+原作の空気感はそのままに、
+キャラクターを“現実寄りのビジュアル”に変更。
+アニメ・漫画の世界観を壊さず、
+別の表現軸に展開できるのが強さ。
+GPT Image 1.5 is now available on Higgsfield.
+Higgsfield’s GPT Image focuses on structure,
+diagrams, and clear reasoning — not style.
+Upload notes, sketches, or diagrams,
+write a structured prompt,
+and get clean, accurate visuals.
+#GPTImage

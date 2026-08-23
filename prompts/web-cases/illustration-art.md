@@ -1,6 +1,6 @@
 # Illustration & Art Prompts
 
-A collection of 63 GPT Image 2 prompts for illustration & art.
+A collection of 64 GPT Image 2 prompts for illustration & art.
 
 | # | Title | Image |
 |---|-------|-------|
@@ -59,8 +59,9 @@ A collection of 63 GPT Image 2 prompts for illustration & art.
 | 504 | 粗糙涂鸦人像改图 | ![粗糙涂鸦人像改图](/public/images/cases/case504.jpg) |
 | 513 | 单色点缀旅行手账插画 | ![单色点缀旅行手账插画](/public/images/cases/case513.jpg) |
 | 514 | 硬边现代艺术人像 | ![硬边现代艺术人像](/public/images/cases/case514.jpg) |
-| 519 | Please transform the entire image into a single Decorative Folk Flat Illustratio | ![Please transform the entire image into a single Decorative Folk Flat Illustratio](/public/images/cases/case519.jpg) |
-| 521 | Flat editorial illustration of the person from the attached photo, wearing the s | ![Flat editorial illustration of the person from the attached photo, wearing the s](/public/images/cases/case521.jpg) |
+| 520 | 月面宇航员 T 恤图形 | ![月面宇航员 T 恤图形](/public/images/cases/case520.jpg) |
+| 523 | 曼哈顿公园水彩旅行插画 | ![曼哈顿公园水彩旅行插画](/public/images/cases/case523.jpg) |
+| 524 | 纸雕拼贴乡野人像 | ![纸雕拼贴乡野人像](/public/images/cases/case524.jpg) |
 | 527 | { "prompt": "A stylized low-angle close-up portrait of the same man from the ref | ![{ "prompt": "A stylized low-angle close-up portrait of the same man from the ref](/public/images/cases/case527.jpg) |
 | 538 | Transform the uploaded photo into a cute whimsical children's storybook illustra | ![Transform the uploaded photo into a cute whimsical children's storybook illustra](/public/images/cases/case538.jpg) |
 | 539 | Gemini nano banana pro prompt: | ![Gemini nano banana pro prompt:](/public/images/cases/case539.jpg) |
@@ -1051,21 +1052,109 @@ A collection of 63 GPT Image 2 prompts for illustration & art.
 > A striking piece of hard-edge modern art on matte archival paper, with visible screen-printing layers and slight ink misalignment. A young East Asian woman is captured in a sharp, three-quarter profile. Her facial features are rendered with precise, crisp contours, contrasting with abstract, luminous geometric shapes that seem to emanate from within her skin. She wears a sleek, high-collared jacket in deep midnight blue, adorned with a single, bold neon coral brooch in the shape of a sharp triangle. Her dark hair is styled in a severe, architectural bob with blunt edges. Her expression is calm and detached, eyes gazing off-frame. The background is a clean, architectural space with sharp diagonal planes in crisp white and deep slate. High-contrast chiaroscuro lighting highlights the edges of her silhouette. Sophisticated palette: deep midnight blue, crisp white, electric neon coral. A stray cat tail is rendered as a sharp, geometric vector in the bottom left corner. Ultra-modern artistic style. No digital CGI feel.
 > dutch angle, stray cat tail --ar 9:16
 
-### Please transform the entire image into a single Decorative Folk Flat Illustratio
+### 月面宇航员 T 恤图形
 
-**Source:** @Ciri_ai - [https://x.com/Ciri_ai/status/2067477780342931799](https://x.com/Ciri_ai/status/2067477780342931799)
+**Source:** @lovimg_com - [https://x.com/lovimg_com/status/2077035644254363972](https://x.com/lovimg_com/status/2077035644254363972)
 
-![Please transform the entire image into a single Decorative Folk Flat Illustratio](/public/images/cases/case519.jpg)
+![月面宇航员 T 恤图形](/public/images/cases/case520.jpg)
 
-> Please transform the entire image into a single Decorative Folk Flat Illustration with Doodle elements. Use a bold and playful color palette, completely different from the original image. Simplify all details into clean, flat shapes with a handmade, slightly imperfect feel, as if drawn on a sheet of white paper. The overall style should look cute, childlike, and whimsical
+> A graphic illustration centered on a dark navy blue t-shirt, depicting an astronaut sitting on the surface of the moon, viewed from a side profile. The astronaut is wearing a detailed, bulky space suit and helmet, leaning back against a small lunar rock formation, and is holding a small steaming mug, suggesting they are enjoying a peaceful drink. Positioned directly in front of the astronaut in the background is a large, majestic view of the Earth, rendered in shades of white, light blue, and navy, featuring prominent swirling cloud formations. The entire artwork is monochromatic, utilizing a cool blue-and-white color palette that creates a serene, solitary, and contemplative atmosphere. The lunar ground is textured with craters and dust, providing a grounded contrast to the vast, dark sky and the bright, swirling planet above. The style is clean, artistic, and iconic, reminiscent of screen-printed apparel designs.
 
-### Flat editorial illustration of the person from the attached photo, wearing the s
+### 曼哈顿公园水彩旅行插画
 
-**Source:** @Ciri_ai - [https://x.com/Ciri_ai/status/2067876068061753365](https://x.com/Ciri_ai/status/2067876068061753365)
+**Source:** @Taaruk_ - [https://x.com/Taaruk_/status/2090307485374578755](https://x.com/Taaruk_/status/2090307485374578755)
 
-![Flat editorial illustration of the person from the attached photo, wearing the s](/public/images/cases/case521.jpg)
+![曼哈顿公园水彩旅行插画](/public/images/cases/case523.jpg)
 
-> Flat editorial illustration of the person from the attached photo, wearing the same clothing shown in the photo, placed within a clean geometric interior featuring large vertical and horizontal color-blocked shapes inspired by the photograph. Use simplified facial features, elongated and soft proportions, matte gouache-like textures, subtle paper grain, a calm and contemplative mood, carefully controlled negative space, no black outlines, no photorealism, no 3D rendering, no visual clutter. Modern editorial art style with balanced composition, refined color harmony, and a vertical 4:5 aspect ratio.
+> Create a vertical editorial travel illustration inspired by vintage European travel posters, featuring a peaceful summer afternoon in a grand city park with a recognizable Manhattan-style skyline in the background. Use delicate hand-drawn ink outlines combined with soft, slightly imperfect watercolor washes on warm textured cream paper. Show a wide green lawn filled with people relaxing, reading, walking, jogging, cycling, and having picnics. In the foreground, a casually dressed young couple sits together on a picnic blanket beside a woven basket. Include elegant black vintage park lamps, winding pathways, dense leafy trees framing the composition, and detailed historic and modern skyscrapers rising behind the park. Add a small picturesque stone arch bridge over a calm pond near the bottom of the artwork. Use muted sage green, olive, warm beige, soft blue, pale gray, and subtle golden sunlight, with natural watercolor bleeding, paper grain, fine pen hatching, and an airy sophisticated travel-journal aesthetic. No text, no letters, no logos, no typography, no captions, no signs. Vertical 4:5 composition, highly detailed, elegant, nostalgic, handcrafted watercolor-and-ink illustration.
+
+### 纸雕拼贴乡野人像
+
+**Source:** @AiwithLariab - [https://x.com/AiwithLariab/status/2090297565732585554](https://x.com/AiwithLariab/status/2090297565732585554)
+
+![纸雕拼贴乡野人像](/public/images/cases/case524.jpg)
+
+> Create a premium whimsical handcrafted paper-collage diorama inspired exactly by the uploaded reference image.
+> 
+> Use the uploaded girl reference as the ONLY human subject. Preserve her facial identity with maximum accuracy: exact face shape, eyes, eyebrows, nose, lips, skin tone, hairstyle, hairline, and recognizable facial features. Strict face identity lock — do not redesign, beautify, stylize, age, de-age, or replace her face.
+> 
+> The girl stands alone in the center of the composition in a graceful, natural editorial pose. She is facing the camera with a relaxed confident expression and a subtle natural smile. Her body is slightly angled, creating a candid fashion-editorial feeling. She holds a beautiful small mixed bouquet of flowers naturally with both hands in front of her. One leg is slightly crossed in front of the other for an elegant relaxed pose.
+> 
+> Outfit
+> 
+> Change the outfit completely from the original reference while keeping it fully modest and elegant:
+> 
+> - elegant ivory/cream long-sleeve button-up blouse
+> - high-waisted wide-leg beige trousers
+> - full-length trousers with complete coverage
+> - simple cream closed-toe shoes
+> - small brown leather shoulder bag
+> - no revealing clothing
+> - no exposed midriff
+> - sophisticated countryside editorial fashion
+> - natural realistic fabric folds and texture
+> 
+> Environment
+> 
+> Create a beautiful handcrafted 3D paper-diorama countryside scene:
+> 
+> - layered blue mountains in the distance
+> - green forest and rolling hills
+> - peaceful blue lake
+> - grassy lakeside landscape
+> - textured beige paper pathway in the foreground
+> - rustic white wooden fence behind the girl
+> - dreamy pastel sky
+> 
+> Surround the composition with oversized handmade paper flowers in pink, peach, cream, white, and light blue, with layered green paper leaves.
+> 
+> Add decorative paper elements floating in the sky:
+> 
+> - pink paper hearts
+> - yellow paper stars
+> - blue stars
+> - soft white and pale-blue clouds
+> - tiny colorful paper dots
+> 
+> Place two tiny vintage vehicles near the lake in the background: a cream vintage camper van on one side and a small vintage blue-green car on the other.
+> 
+> Art Direction
+> 
+> The entire environment should look handcrafted from premium textured paper while the girl remains photorealistic and seamlessly integrated into the paper world.
+> 
+> Use:
+> hand-torn paper edges, visible paper fibers, layered cardstock, subtle imperfections, realistic paper shadows, dimensional cut-paper elements, tactile textures, soft natural daylight, cinematic depth, gentle atmospheric perspective, premium editorial photography.
+> 
+> The final image should feel like a luxury handmade paper storybook brought to life with a real photographic subject.
+> 
+> Composition
+> 
+> Centered full-body girl
+> Face clearly visible and sharply detailed
+> Natural elegant pose
+> Bouquet held naturally
+> Rustic fence framing the subject
+> Lake and mountains creating depth
+> Large flowers framing both lower corners
+> Clouds and decorative elements filling the upper background
+> Balanced symmetrical composition with organic handmade imperfections
+> Girl remains the strongest focal point
+> 
+> Final Look
+> 
+> Photorealistic girl + handcrafted paper-art environment
+> Dreamy pastel colors
+> Luxury editorial aesthetic
+> Whimsical miniature diorama
+> Soft cinematic daylight
+> Highly detailed paper textures
+> Natural realistic skin
+> Sharp facial identity
+> Professional fashion photography
+> Pinterest/Instagram viral visual aesthetic
+> Magazine-quality composition
+> 
+> Vertical 4:5 portrait composition, full-body framing, ultra-detailed, high resolution, clean polished finish, visually striking, aesthetically balanced, premium handcrafted paper-collage photography.
 
 ### { "prompt": "A stylized low-angle close-up portrait of the same man from the ref
 

@@ -1,6 +1,6 @@
 # Brand & Logos Prompts
 
-A collection of 26 GPT Image 2 prompts for brand & logos.
+A collection of 27 GPT Image 2 prompts for brand & logos.
 
 | # | Title | Image |
 |---|-------|-------|
@@ -30,6 +30,7 @@ A collection of 26 GPT Image 2 prompts for brand & logos.
 | 478 | 夹层式品牌编辑海报 | ![夹层式品牌编辑海报](/public/images/cases/case478.jpg) |
 | 496 | 水雕品牌 Logo 六宫格 | ![水雕品牌 Logo 六宫格](/public/images/cases/case496.jpg) |
 | 510 | Bichon Shop 拟物 App 图标 | ![Bichon Shop 拟物 App 图标](/public/images/cases/case510.jpg) |
+| 516 | 工业橡胶管品牌造型渲染 | ![工业橡胶管品牌造型渲染](/public/images/cases/case516.jpg) |
 
 ## Prompts
 
@@ -1314,3 +1315,11 @@ A collection of 26 GPT Image 2 prompts for brand & logos.
 ![Bichon Shop 拟物 App 图标](/public/images/cases/case510.jpg)
 
 > A macOS app icon for an app named 'Bichon Shop'. A single squircle icon with smooth continuous rounded corners, centered on a white canvas with padding, occupying about 80% of the canvas. Modern light skeuomorphic macOS App Store style. Only one icon.
+
+### 工业橡胶管品牌造型渲染
+
+**Source:** @Just_sharon7 - [https://x.com/Just_sharon7/status/2077034244988150062](https://x.com/Just_sharon7/status/2077034244988150062)
+
+![工业橡胶管品牌造型渲染](/public/images/cases/case516.jpg)
+
+> Create an ultra-detailed hyper-realistic 3D render of {Object} , formed from thick industrial rubber tubing bent into the exact shape of the design, flexible yet dense structure, smooth rounded contours, subtle matte finish, realistic elastomer texture, faint molded seam lines, soft tension at each curve, authentic material compression and stretch behavior, slightly grippy surface quality, engineered object realism, colored using the authentic official brand color palette of [brand], faithful brand-matching hues applied across the tubing, accurate color blocking that follows the original logo design, premium studio product photography aesthetic, isolated on a pure white seamless background, soft diffused studio lighting, realistic contact shadow, macro detail, razor-sharp focus, photorealistic, 8k, 16:9, no watermark, no extra text.
